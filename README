@@ -1,0 +1,18 @@
+RSSBook
+=======
+
+Convert RSS Feed to PDF format.
+
+Usage:
+
+  Convert a RSS Feed File to PDF
+
+    rssbook engadgetchinese.rss engadget.pdf
+
+  Download and convert a RSS Feed to PDF
+
+    rssbook "http://feeds2.feedburner.com/engadgetchinese?format=xml" engadget.pdf
+
+  Download and convert a RSS Feed to PDF, using custom fonts:
+
+    pdbook "http://feeds2.feedburner.com/engadgetchinese?format=xml" engadget.pdf "Arial Unicode.ttf"
