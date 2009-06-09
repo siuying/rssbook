@@ -28,4 +28,5 @@ Gem::Specification.new do |s|
   s.executables = ["rssbook"]
   s.require_paths = %w[lib]
   s.rubygems_version = '1.1.1'
+  
 end
