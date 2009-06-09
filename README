@@ -15,4 +15,4 @@ Usage:
 
   Download and convert a RSS Feed to PDF, using custom fonts:
 
-    pdbook "http://feeds2.feedburner.com/engadgetchinese?format=xml" engadget.pdf "Arial Unicode.ttf"
+    rssbook "http://feeds2.feedburner.com/engadgetchinese?format=xml" engadget.pdf "Arial Unicode.ttf"
