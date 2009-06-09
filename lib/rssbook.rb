@@ -10,7 +10,7 @@ require 'open-uri'
 require "prawn/measurement_extensions"
 
 module RSSBook
-  VERSION = '0.1.2'
+  VERSION = '0.1.3'
 
   class Renderer
     def initialize(input, output, font = "#{Prawn::BASEDIR}/data/fonts/gkai00mp.ttf",
@@ -60,6 +60,3 @@ module RSSBook
     end
   end
 end
-
-renderer = RSSBook::Renderer.new ARGV[0], "#{ARGV[0]}.pdf", "wt011.ttf"
-renderer.render
