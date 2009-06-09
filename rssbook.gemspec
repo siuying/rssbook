@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.specification_version = 2 if s.respond_to? :specification_version=
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.name = 'rssbook'
-  s.version = '0.1.0'
+  s.version = '0.1.2'
   s.date = '2009-06-09'
 
   s.summary = s.description = "Convert RSS Feed to PDF format."
@@ -12,6 +12,12 @@ Gem::Specification.new do |s|
 
   # = MANIFEST =
   s.files = %w[
+    LICENSE
+    README
+    Rakefile
+    bin/rssbook
+    lib/rssbook.rb
+    rssbook.gemspec
   ]
   # = MANIFEST =
 

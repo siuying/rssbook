@@ -10,7 +10,8 @@ require 'open-uri'
 require "prawn/measurement_extensions"
 
 module RSSBook
-  VERSION = '0.1.1'
+  VERSION = '0.1.2'
+
   class Renderer
     def initialize(input, output, font = "#{Prawn::BASEDIR}/data/fonts/gkai00mp.ttf",
             options = {:page_size => "A4", :margin => 0.6.in, :compress => true})
