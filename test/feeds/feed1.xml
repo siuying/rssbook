@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule">
+<channel>
+<title><![CDATA[Yahoo! 新聞 - 港聞]]></title>
+<link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/rss/hongkong/rss.xml]]></link>
+<description><![CDATA[Yahoo! 新聞 - 港聞]]></description>
+<language>zh-HK</language>
+<copyright>Copyright (c) 2008 Yahoo! Inc. All rights reserved.</copyright>
+
+<lastBuildDate>Sun, 14 Jun 2009 00:27:20 +0800</lastBuildDate>
+<ttl>5</ttl>
+<image>
+<title><![CDATA[Yahoo! 新聞 - 港聞]]></title>
+<url><![CDATA[http://hk.yimg.com/i/nws/nws6_rss.gif]]></url>
+<link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/rss/hongkong/rss.xml]]></link>
+<width>144</width>
+<height>31</height>
+
+</image>
+<item>
+ <title><![CDATA[柴灣海面發現浮屍無可疑]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/cog6.html]]></link>
+ <description><![CDATA[柴灣貨物起卸區漁船停泊處下午發現一具男屍，未有發現任何證明文件，初步相信無可疑。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591558</guid>
+ <pubDate>Sun, 14 Jun 2009 00:15:05 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[本港新增十一宗新流感個案]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/cog1.html]]></link>
+ <description><![CDATA[衛生署公布，是日新增11宗甲型H1N1流感確診個案，香港至今共錄得84宗病例。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591553</guid>
+ <pubDate>Sat, 13 Jun 2009 23:15:05 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[旺角車禍死者家人矢言追究]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/cofo.html]]></link>
+ <description><![CDATA[旺角周五深夜發生的小巴與巴士相撞後剷上行人路車禍，死者家屬誓言追究，而事故現場經常見到小巴與巴士爭路。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591540</guid>
+ <pubDate>Sat, 13 Jun 2009 22:20:04 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[本港再確診五宗新流感]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coel.html]]></link>
+ <description><![CDATA[本港確診多5宗甲型H1N1流感，令本港的確診個升至78宗，其中4宗屬外地傳入，一宗未分類。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591501</guid>
+ <pubDate>Sat, 13 Jun 2009 22:20:04 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[柴灣起卸區撈獲老翁浮屍]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/coft.html]]></link>
+ <description><![CDATA[一名年約七十歲老翁，下午被市民發現浮屍柴灣公眾貨物起卸區對開，警方聯同消防員接報到場，將年老浮屍撈上岸邊，警員未能在其身上尋獲任何身分證明文件，警員正追查浮屍者的背景及墮海原因。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591545</guid>
+ <pubDate>Sat, 13 Jun 2009 21:33:29 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[觀塘社區中心翻新後重開]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/cofs.html]]></link>
+ <description><![CDATA[觀塘社區中心改善工程己經竣工，內容包括擴建禮堂和舞台、改善音響及燈光器材、更新冷氣系統及增設休憩花園等。經全面翻新後的社區中心今日正式重新啟用，為區內市民提供一個可舉辦各類型表演的理想社區活動場地。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591544</guid>
+ <pubDate>Sat, 13 Jun 2009 21:20:29 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[警籲市民提供柴灣致命車禍資料]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/cofr.html]]></link>
+ <description><![CDATA[警方港島總區交通部特別調查隊，正調查今午在柴灣發生的一宗交通意外，意外中一名七十四歲老翁死亡。任何人如曾目睹意外經過或有資料提供，請致電31068800或31068833與調查人員聯絡。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591543</guid>
+ <pubDate>Sat, 13 Jun 2009 21:09:28 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[旺角嚴重車禍司機危駕保釋]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coc9.html]]></link>
+ <description><![CDATA[旺角昨晚深夜一輛小巴與巴士相撞後剷上行人路，造成2死7傷，34歲小巴司機被控危險駕駛，今早獲准保釋。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591417</guid>
+ <pubDate>Sat, 13 Jun 2009 21:05:03 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[四千四百多隻活豬今運抵屠房]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/cofq.html]]></link>
+ <description><![CDATA[今日運抵屠房的活豬數目為四千四百四十六隻，當中四千一百卅六隻為內地進口活豬，三百一十隻為本地豬。活豬批發價介乎每擔爪百五十至,一千一百一十五元，平均價為九百五十一元。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591542</guid>
+ <pubDate>Sat, 13 Jun 2009 21:01:29 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[警方尖沙咀的士高拘四毒販]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/cofp.html]]></link>
+ <description><![CDATA[警方接獲線報，一個販毒集團在尖沙咀麼地道的一間的士高販賣精神科毒品。毒品調查科探員在五月展開一項代號「House Painter」的行動，鎖定該販毒集團的三名成員。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591541</guid>
+ <pubDate>Sat, 13 Jun 2009 20:56:28 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[柴灣車禍老伯死亡]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coez.html]]></link>
+ <description><![CDATA[柴灣嘉業街下午五時許發生車禍，一名74歲老伯被輕型貨車撞倒，送院後證實死亡。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591515</guid>
+ <pubDate>Sat, 13 Jun 2009 20:20:03 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[旺角車禍死者家人促徹查]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coei.html]]></link>
+ <description><![CDATA[旺角道昨晚深夜造成兩人死亡的嚴重車禍，死者的家人在正午路祭。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591498</guid>
+ <pubDate>Sat, 13 Jun 2009 20:20:03 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[警方在尖沙嘴拘捕四毒販]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/cofb.html]]></link>
+ <description><![CDATA[警方於上午執行一項反毒品行動時，在尖沙嘴一間的士高拘捕四名涉嫌販毒男子。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591527</guid>
+ <pubDate>Sat, 13 Jun 2009 19:35:03 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[旺角釀大車禍小巴司機獲准保釋]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/cofc.html]]></link>
+ <description><![CDATA[釀成兩死八傷車禍的卅四歲專線小巴司機，因涉嫌危險駕駛引致他人死亡一度被捕，下午已獲准以一萬元保釋，下周須到警署報到。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591528</guid>
+ <pubDate>Sat, 13 Jun 2009 19:08:29 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[流感診所首日治二百多人]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/cof0.html]]></link>
+ <description><![CDATA[醫管局轄下八間指定流感診所今日正式服務，首日運作暢順，八間診所合共為236名患有流感徵狀的市民診治。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591516</guid>
+ <pubDate>Sat, 13 Jun 2009 18:55:04 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[港學生多認同中國人身分]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coey.html]]></link>
+ <description><![CDATA[國民教育中心首次全港學校調查顯示，香港中小學生多認同中國人的身分。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591514</guid>
+ <pubDate>Sat, 13 Jun 2009 18:35:04 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[今新確診女子曾到過尖沙嘴]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coex.html]]></link>
+ <description><![CDATA[曾到過江西及廣州的確診女子，病發前曾到過尖沙嘴星光大道、尖沙嘴中心等地，傳播病毒機會低。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591513</guid>
+ <pubDate>Sat, 13 Jun 2009 18:25:05 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[曾浩輝指流感診所秩序良好]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coer.html]]></link>
+ <description><![CDATA[衛生防護中心總監曾浩輝表示，首天開放的指定流感診所整體秩序良好。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591507</guid>
+ <pubDate>Sat, 13 Jun 2009 18:10:07 +0800</pubDate>
+
+</item>
+<item>
+ <title><![CDATA[曾浩輝稱已訂更多抗流感藥]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/4/coep.html]]></link>
+ <description><![CDATA[衛生防護中心總監曾浩輝表示，有鑑於現時本港甲型H1N1流感疫情有變，當局已增購抗流感藥物如特敏福。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591505</guid>
+ <pubDate>Sat, 13 Jun 2009 18:00:09 +0800</pubDate>
+</item>
+<item>
+ <title><![CDATA[5宗H1N14宗屬外地傳入]]></title>
+ <link><![CDATA[http://hk.rd.yahoo.com/news/rss/*http://hk.news.yahoo.com/article/090613/3/coeo.html]]></link>
+ <description><![CDATA[本港再確診5宗H1N1甲型流感（人類豬流感）個案，累計確診個案增至78宗。]]></description>
+ <guid isPermaLink="false">yahoo/hk/news/591504</guid>
+ <pubDate>Sat, 13 Jun 2009 17:24:29 +0800</pubDate>
+
+</item>
+</channel>
+</rss>
+<!-- spaceId: 97097717 -->

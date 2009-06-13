@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2chinesetwfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds2.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"><channel><title>Mr./Ms. Days (MMDays) - 網路, 資訊, 觀察, 生活</title><link>http://mmdays.com</link><description>網路, 產業, 資訊, 觀察, 生活, 電影, 技術, 新知, 科技, 媒體, 趨勢, Web 2.0</description><language>en</language><generator>http://wordpress.org/?v=2.7.1</generator><sy:updatePeriod xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">hourly</sy:updatePeriod><sy:updateFrequency xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">1</sy:updateFrequency><image><link>http://mmdays.com</link><url>http://feeds.feedburner.com/~fc/mmdays?bg=99CCFF&amp;amp;fg=444444&amp;amp;anim=0</url><title>MMDays</title></image><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds2.feedburner.com/mmdays" type="application/rss+xml" /><feedburner:emailServiceId>mmdays</feedburner:emailServiceId><feedburner:feedburnerHostname>http://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds2.feedburner.com/mmdays" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds2.feedburner.com%2Fmmdays" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><item><title>無名小站神奇數字解讀術──備份只有十萬分之六的重要性？</title><link>http://feedproxy.google.com/~r/mmdays/~3/rkScFFIScq0/</link><category>Mr. Friday</category><category>Taiwan</category><category>Web 2.0</category><category>專欄</category><category>無名小站</category><category>網路產業</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Wed, 03 Jun 2009 10:10:14 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7402</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>今天下午，無名小站辦公室發出公告，恢復了備份下載功能。消息一出，這幾天揪團抗議的網友們自然是非常高興。不過，看到公告內容，我相信許多網友除了高興之外，應該還多了一些情緒是傻眼跟不解吧…。抱歉，我的疑問太多了，限於篇幅，每項都點到為止就好。</p>
+<p><strong></strong></p>
+<p><strong><span style="color: #0000ff;">備份只有十萬分之六的重要性？</span></strong></p>
+<blockquote><p>在預告終止九項功能服務之公告上線後，工作人員也有繼續在觀察這些功能的使用情況，發現使用率仍然是相當的低。雖然有少數會員討論，工作人員們認為「使用情況應該是代表大多數會員實際需要這項功能的指標」，所以仍然依照原訂的計畫，在公告了一個月之後把預告的九項功能終止服務了。</p>
+<p>但是5/26功能終止服務之後，也許讓一些不必要的擔心更加被放大了，工作人員們一來覺得很奇怪<span style="color: #ff0000;">「但是系統統計用的人就很少很少啊（十萬分之六） 」</span>，二來也想設法了解到底會員們真正在意的癥結是什麼？而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」</p></blockquote>
+<p><span id="more-7402"></span></p>
+<p>首先，這十萬分之六的數字是哪來的？怎麼統計的？</p>
+<blockquote><p>1. 「網誌備份XML下載」的使用率，根據系統統計，大約是0.006% (十萬分之六)，意思是網友使用無名小站的各項功能時，每十萬次裡只有六次是使用這項功能的。</p></blockquote>
+<p>功能使用率是十萬分之六，那重要性也是十萬分之六嗎？</p>
+<blockquote><p>所謂這功能很少人使用, 就代表可以拿掉這表面上看起來是對的, 只是就我私下計算, 無名一天約有一億五千萬的點閱數, 而新增使用者的頁面約使用 1500 次好了, 就使用率不只是十萬分之六,更不是十萬分之一, 而是<strong><span style="color: #ff0000;">百萬分之一</span></strong>, 無名會不會因為使用率很低的理由, 把新增使用者功能也關起來呢? 若是這樣的話, 我也不反對啦&#8230;</p>
+<p>from <a href="http://geneoralspeaking.blogspot.com/2009/06/yahoo-xml.html">黑貘來說</a></p></blockquote>
+<p>數字低所以就不重要嗎？套個billypan舉過的例子，我家滅火器使用率是0，但我會因此把滅火器拆掉嗎？不會啊…</p>
+<p>少了一個使用率十萬分之六的功能，引來網友串連出走、公平會介入調查，你還會覺得以使用率來衡量重要性是正確的評估方法嗎？</p>
+<p><strong><span style="color: #0000ff;">系統維護也許會拖慢更新網站的速度，但那是你家的事</span></strong></p>
+<p>不要期待把一些內部的決策資訊揭露給大眾知道，大眾就會站在你這邊。有些問題，本來就是業者要負責解決的問題…</p>
+<blockquote><p>例如一個功能的改版，因為與其他功能有關連而互相牽制，如果改了A但是沒調B也許就會發生異常，在確認這些情況時都讓工程師花的時間更多，開發的進度也無法加快。舉個例子，像是「網誌」要增加一個新功能的話，除了開發新功能的程式之外，工程師還必須檢查其他所有跟「網誌」有關的系統，看看新功能對於原來有的功能會不會產生影響，會的話也要一併調整。這些檢查與調整的工作有時會比「寫新的功能」也許還繁複。</p></blockquote>
+<p>這世界上還有很多很多、很多很多比無名小站還要繁複的系統，我從未聽聞過有公開宣稱以系統維護為由而把<span style="color: #ff0000;">功能取消</span>的例子。就算是有好了，系統維護本來就是BSP要做的事情，這種事拿出來說，豈不是讓人覺得無名小站在功能測試、程式模組化、系統維護上都比不上他人嗎？</p>
+<p><strong><span style="color: #0000ff;">XML不能讀？</span></strong></p>
+<blockquote><p>假如會寫程式的人也許才可以把這個XML檔做某些運用，普通人像是老查也許就完全不知道怎麼使用這個檔案，<span style="color: #ff0000;">因為市面上好像沒有直接開啟XML瀏覽閱讀的程式。</span></p></blockquote>
+<p>你確定嗎？要不要去Google一下？</p>
+<p><a title="Flickr 上 itia4u 的 xml_reader_google" href="http://www.flickr.com/photos/itia4u/3591985547/"><img src="http://farm4.static.flickr.com/3646/3591985547_9d32e3c2c7.jpg" alt="xml_reader_google" width="477" height="500" /></a></p>
+<p>啊對吼無名被Yahoo!買了，應該用雅虎奇摩搜尋才對。</p>
+<p><a title="Flickr 上 itia4u 的 xml_reader_yahoo" href="http://www.flickr.com/photos/itia4u/3592793020/"><img src="http://farm4.static.flickr.com/3335/3592793020_88704c8d76_o.jpg" alt="xml_reader_yahoo" width="621" height="629" /></a></p>
+<p><strong><span style="color: #0000ff;">備份到底是用來做什麼的？</span></strong></p>
+<p>這個問題我覺得有必要釐清楚。一般說來，需要備份的時機有兩種：</p>
+<ul>
+<li>一種是程式或系統有問題，原本應該好好的資料卻毀損了</li>
+<li>另外一種是使用者「手滑」，不小心把自己的重要檔案給誤砍掉了</li>
+</ul>
+<p>如果以業界在外包系統維護來說，通常第一種現象是系統維護者要幫忙復原的。但是第二種情況，通常責任是在使用者這一方。資料是循正常管道經使用者確認送出給刪掉的，系統維護者沒有義務一定要幫你把先前的資料保留下來。再者，如果這是系統維護者的責任的話，那使用者要作弄系統維護人員很簡單，三不五時砍掉一堆資料叫系統人員回復就好了。</p>
+<p>純論後者的情況，一般來說是使用者的責任，所以這方面的備份的確也是使用者自己要做好。阿可是如果沒了備份下載功能，是要叫大家怎麼自己備份？更何況，以過去的經驗來看，前者〈系統異常資料消失〉的情況更是所在多有，拿掉備份功能叫人如何安心？</p>
+<p>許多人都沒有定期備份的習慣，但這是選擇的問題。你可以選擇備份，或者不備份，但是『沒得選擇』，就又是另外一件事了。</p>
+<blockquote><p>而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」</p></blockquote>
+<blockquote><p>老查在這裡要稍微解釋一下，自己家裡的個人電腦，因為我們自己既是使用者又是維護者（家裡的電腦大多是自己在維護吧？），所以我們需要自己來做備份。但在使用網站時，各網站都會以維持網站系統與資料穩定、強化網友使用便利性為責任，<span style="color: #ff0000;">以無名小站來說，無名小站有專業的工程師<strong>盡力</strong>維護系統順暢、備份網站資料庫，讓網友可以放心地使用。</span></p></blockquote>
+<p>所以勒？這只有講到第一種情況吧。更何況，是「盡力」喔，可不是「義務」喔。</p>
+<blockquote><p>8. 系統中斷或故障<br />
+本服務有時可能會出現中斷或故障等現象，或許將造成您使用上的不便、資料喪失、錯誤、遭人篡改或其他經濟上損失等情形。<span style="color: #ff0000;">您於使用本服務時宜自行採取防護措施</span>。Yahoo!奇摩對於您因使用（或無法使用）本服務而造成的損害，<span style="color: #ff0000;">除故意或重大過失外，不負任何賠償責任。</span></p>
+<p>–來源，<a href="http://tw.info.yahoo.com/legal/utos.html">雅虎奇摩服務條款</a></p></blockquote>
+<p><strong><span style="color: #0000ff;">搬家難道是不能談的話題？</span></strong></p>
+<p>這是一個敏感的話題，但卻是<a href="http://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&amp;docid=10553">公平會介入</a>的主因，再者，無名早期就寫過大同資訊部落格搬家程式，到最近還推出搬家小幫手。允許別人搬來，不準別人搬走，已經有妨礙公平競爭的嫌疑。既然已經鬧得沸沸湯湯、人盡皆知了，這篇公告為何不針對這方面的疑慮進行澄清？是覺得無此必要還是避重就輕？</p>
+<p><strong><span style="color: #0000ff;">用戶的資料到底算誰的？</span></strong></p>
+<p>這個時候不得不大推Mr. Saturday以前寫過的兩篇文章：</p>
+<ul>
+<li>
+<h4><a href="http://mmdays.com/2007/12/09/facebook_weblo/">網路時代，你的個人資料到底歸誰所有？一瞥使用者在 Facebook 上的新營利模式</a></h4>
+</li>
+<li>
+<h4><a href="http://mmdays.com/2008/02/03/social_network_and_your_data/">從 Facebook 看起，你的個人資料究竟算誰的？</a></h4>
+</li>
+</ul>
+<p>這兩篇文章是以Facebook為例，探討在網路時代，網友寫在網路上的資料，究竟是算網友的，還是算網站經營業者的？</p>
+<p>以這次的例子來說就是：我寫的文章，所有權是誰的？如果是算我的，為什麼我不能把我寫過的東西備份下來放在別處？</p>
+<p>這個命題已經是更高的層次了。關於這個問題，Mr. Saturday已經有更精闢的敘述了：</p>
+<blockquote><p>但是一旦 Facebook 用這種方式把你的個人資料給吸進去之後，他們就拒絕再把資料用任何方式吐出來，這就是 Robert Scoble 覺得不合理的地方，為什麼 Facebook 可以從別人那邊搜括你的個人資料，但是使用者卻不能把自己的資料再拿出來，這根本就是一個單方面的雙重標準。</p></blockquote>
+<blockquote><p>「可流動」和「流動與否」基本上是兩回事．你做出了跟 Google 一模一樣的搜尋引擎；或是做出跟 Facebook 一模一樣的 social network，你依舊很難威脅到他們，更何況模仿這兩家公司談何容易．所以 Google 早就有了 Google Data API 讓你去使用他們的服務和聚合他們的資料，一句話：他們不怕你用．Facebook 倒也不必擔心把自己的資料開放出來，畢竟將近六千萬的使用者已經是相當可怕的規模，看看無名小站不過數百萬個使用者，雖然不斷得罪使用者，大家都還是懶得搬家了，Facebook 自然也不會因為資料開放被擊倒。</p>
+<p><span style="color: #ff0000;">資料開放真正的意義在於，把掌握資料的權利還到使用者的手中，而不是被任何一家公司壟斷或是掌握</span>．如此我們可以直接預見一個資訊流通更為發達的網際網路．我也期待使用者以後不用再受制於一些惡質經營的公司，能夠確實掌握自己的資料，能夠輕易地用自己寶貴的資料去投好的公司一票．</p></blockquote>
+<p>基本上，備份服務牽涉到使用者究竟對於自己的資料有沒有實質的控制權，還是說一旦文章上了BSP之後就只能任無名宰割。沒錯，這是一個使用率低的功能，但卻是具有重要意義，是無名目前唯一可以讓使用者放心，覺得自己還擁有資料控制權的功能。沒有想通這一點，就貿然把備份功能取消，徒然引起網友的恐慌，代表著無名的決策者的眼光沒有這麼長遠。</p>
+<p>一個備份功能，可以牽涉到這麼多的面向，這可以證明用什麼十萬分之六的使用率來解讀功能的重要性，是完全沒有意義的。統計是個好工具，但是胡亂解讀或是擴大解釋數字的意義，反倒是一場災難。諸位在公告裡仍然搞不懂網友為何反彈的工程師，看到這裡，你們到底想清楚了沒？<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2007/12/14/clone/" title="[MMDays 論壇] Clone 無罪!? 利益至上!? (更新讀者觀點)">[MMDays 論壇] Clone 無罪!? 利益至上!? (更新讀者觀點) (7)</a></li>
+<li><a href="http://mmdays.com/2007/11/28/yahoo_mym/" title="Yahoo預備推出單一入口即時通">Yahoo預備推出單一入口即時通 (2)</a></li>
+<li><a href="http://mmdays.com/2007/04/14/google-ac-doubleclick/" title="超越 YouTube 的天價！Google 砸下 31.8 億美金併購 DoubleClick">超越 YouTube 的天價！Google 砸下 31.8 億美金併購 DoubleClick (17)</a></li>
+<li><a href="http://mmdays.com/2008/02/12/%e3%80%8c%e6%9c%9f%e5%be%85%e3%80%8d%e8%88%87%e3%80%8c%e5%af%a6%e7%8f%be%e3%80%8d%e7%9a%84%e7%b6%93%e7%87%9f%e6%88%b0%e7%88%ad-2/" title="[客座]「期待」與「實現」的經營戰爭">[客座]「期待」與「實現」的經營戰爭 (0)</a></li>
+<li><a href="http://mmdays.com/2008/10/07/ireport_and_citizen_journalism/" title="Steve Jobs沒有心臟病發，但是公民新聞衰竭了&#8230;">Steve Jobs沒有心臟病發，但是公民新聞衰竭了&#8230; (2)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/q_8K8hI5GCfQujbEMUQ2W37bIio/0/da"><img src="http://feedads.g.doubleclick.net/~a/q_8K8hI5GCfQujbEMUQ2W37bIio/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/q_8K8hI5GCfQujbEMUQ2W37bIio/1/da"><img src="http://feedads.g.doubleclick.net/~a/q_8K8hI5GCfQujbEMUQ2W37bIio/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/xLRP7tbqudc" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/rkScFFIScq0" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+今天下午，無名小站辦公室發出公告，恢復了備份下載功能。消息一出，這幾天揪團抗議的網友們自然是非常高興。不過，看到公告內容，我相信許多網友除了高興之外，應該還多了一些情緒是傻眼跟不解吧…。抱歉，我的疑問太多了，限於篇幅，每項都點到為止就好。
+
+備份只有十萬分之六的重要性？
+在預告終止九項功能服務之公告上線後，工作人員也有繼續在觀察這些功能的使用情況，發現使用率仍然是相當的低。雖然有少數會員討論，工作人員們認為「使用情況應該是代表大多數會員實際需要這項功能的指標」，所以仍然依照原訂的計畫，在公告了一個月之後把預告的九項功能終止服務了。
+但是5/26功能終止服務之後，也許讓一些不必要的擔心更加被放大了，工作人員們一來覺得很奇怪「但是系統統計用的人就很少很少啊（十萬分之六） 」，二來也想設法了解到底會員們真正在意的癥結是什麼？而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」
+
+首先，這十萬分之六的數字是哪來的？怎麼統計的？
+1. 「網誌備份XML下載」的使用率，根據系統統計，大約是0.006% (十萬分之六)，意思是網友使用無名小站的各項功能時，每十萬次裡只有六次是使用這項功能的。
+功能使用率是十萬分之六，那重要性也是十萬分之六嗎？
+所謂這功能很少人使用, 就代表可以拿掉這表面上看起來是對的, 只是就我私下計算, 無名一天約有一億五千萬的點閱數, 而新增使用者的頁面約使用 1500 次好了, 就使用率不只是十萬分之六,更不是十萬分之一, 而是百萬分之一, 無名會不會因為使用率很低的理由, 把新增使用者功能也關起來呢? 若是這樣的話, 我也不反對啦&amp;#8230;
+from 黑貘來說
+數字低所以就不重要嗎？套個billypan舉過的例子，我家滅火器使用率是0，但我會因此把滅火器拆掉嗎？不會啊…
+少了一個使用率十萬分之六的功能，引來網友串連出走、公平會介入調查，你還會覺得以使用率來衡量重要性是正確的評估方法嗎？
+系統維護也許會拖慢更新網站的速度，但那是你家的事
+不要期待把一些內部的決策資訊揭露給大眾知道，大眾就會站在你這邊。有些問題，本來就是業者要負責解決的問題…
+例如一個功能的改版，因為與其他功能有關連而互相牽制，如果改了A但是沒調B也許就會發生異常，在確認這些情況時都讓工程師花的時間更多，開發的進度也無法加快。舉個例子，像是「網誌」要增加一個新功能的話，除了開發新功能的程式之外，工程師還必須檢查其他所有跟「網誌」有關的系統，看看新功能對於原來有的功能會不會產生影響，會的話也要一併調整。這些檢查與調整的工作有時會比「寫新的功能」也許還繁複。
+這世界上還有很多很多、很多很多比無名小站還要繁複的系統，我從未聽聞過有公開宣稱以系統維護為由而把功能取消的例子。就算是有好了，系統維護本來就是BSP要做的事情，這種事拿出來說，豈不是讓人覺得無名小站在功能測試、程式模組化、系統維護上都比不上他人嗎？
+XML不能讀？
+假如會寫程式的人也許才可以把這個XML檔做某些運用，普通人像是老查也許就完全不知道怎麼使用這個檔案，因為市面上好像沒有直接開啟XML瀏覽閱讀的程式。
+你確定嗎？要不要去Google一下？
+
+啊對吼無名被Yahoo!買了，應該用雅虎奇摩搜尋才對。
+
+備份到底是用來做什麼的？
+這個問題我覺得有必要釐清楚。一般說來，需要備份的時機有兩種：
+
+一種是程式或系統有問題，原本應該好好的資料卻毀損了
+另外一種是使用者「手滑」，不小心把自己的重要檔案給誤砍掉了
+
+如果以業界在外包系統維護來說，通常第一種現象是系統維護者要幫忙復原的。但是第二種情況，通常責任是在使用者這一方。資料是循正常管道經使用者確認送出給刪掉的，系統維護者沒有義務一定要幫你把先前的資料保留下來。再者，如果這是系統維護者的責任的話，那使用者要作弄系統維護人員很簡單，三不五時砍掉一堆資料叫系統人員回復就好了。
+純論後者的情況，一般來說是使用者的責任，所以這方面的備份的確也是使用者自己要做好。阿可是如果沒了備份下載功能，是要叫大家怎麼自己備份？更何況，以過去的經驗來看，前者〈系統異常資料消失〉的情況更是所在多有，拿掉備份功能叫人如何安心？
+許多人都沒有定期備份的習慣，但這是選擇的問題。你可以選擇備份，或者不備份，但是『沒得選擇』，就又是另外一件事了。
+而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」
+老查在這裡要稍微解釋一下，自己家裡的個人電腦，因為我們自己既是使用者又是維護者（家裡的電腦大多是自己在維護吧？），所以我們需要自己來做備份。但在使用網站時，各網站都會以維持網站系統與資料穩定、強化網友使用便利性為責任，以無名小站來說，無名小站有專業的工程師盡力維護系統順暢、備份網站資料庫，讓網友可以放心地使用。
+所以勒？這只有講到第一種情況吧。更何況，是「盡力」喔，可不是「義務」喔。
+8. 系統中斷或故障
+本服務有時可能會出現中斷或故障等現象，或許將造成您使用上的不便、資料喪失、錯誤、遭人篡改或其他經濟上損失等情形。您於使用本服務時宜自行採取防護措施。Yahoo!奇摩對於您因使用（或無法使用）本服務而造成的損害，除故意或重大過失外，不負任何賠償責任。
+–來源，雅虎奇摩服務條款
+搬家難道是不能談的話題？
+這是一個敏感的話題，但卻是公平會介入的主因，再者，無名早期就寫過大同資訊部落格搬家程式，到最近還推出搬家小幫手。允許別人搬來，不準別人搬走，已經有妨礙公平競爭的嫌疑。既然已經鬧得沸沸湯湯、人盡皆知了，這篇公告為何不針對這方面的疑慮進行澄清？是覺得無此必要還是避重就輕？
+用戶的資料到底算誰的？
+這個時候不得不大推Mr. Saturday以前寫過的兩篇文章：
+
+
+網路時代，你的個人資料到底歸誰所有？一瞥使用者在 Facebook 上的新營利模式
+
+
+從 Facebook 看起，你的個人資料究竟算誰的？
+
+
+這兩篇文章是以Facebook為例，探討在網路時代，網友寫在網路上的資料，究竟是算網友的，還是算網站經營業者的？
+以這次的例子來說就是：我寫的文章，所有權是誰的？如果是算我的，為什麼我不能把我寫過的東西備份下來放在別處？
+這個命題已經是更高的層次了。關於這個問題，Mr. Saturday已經有更精闢的敘述了：
+但是一旦 Facebook 用這種方式把你的個人資料給吸進去之後，他們就拒絕再把資料用任何方式吐出來，這就是 Robert Scoble 覺得不合理的地方，為什麼 Facebook 可以從別人那邊搜括你的個人資料，但是使用者卻不能把自己的資料再拿出來，這根本就是一個單方面的雙重標準。
+「可流動」和「流動與否」基本上是兩回事．你做出了跟 Google 一模一樣的搜尋引擎；或是做出跟 Facebook 一模一樣的 social network，你依舊很難威脅到他們，更何況模仿這兩家公司談何容易．所以 Google 早就有了 Google Data API 讓你去使用他們的服務和聚合他們的資料，一句話：他們不怕你用．Facebook 倒也不必擔心把自己的資料開放出來，畢竟將近六千萬的使用者已經是相當可怕的規模，看看無名小站不過數百萬個使用者，雖然不斷得罪使用者，大家都還是懶得搬家了，Facebook 自然也不會因為資料開放被擊倒。
+資料開放真正的意義在於，把掌握資料的權利還到使用者的手中，而不是被任何一家公司壟斷或是掌握．如此我們可以直接預見一個資訊流通更為發達的網際網路．我也期待使用者以後不用再受制於一些惡質經營的公司，能夠確實掌握自己的資料，能夠輕易地用自己寶貴的資料去投好的公司一票．
+基本上，備份服務牽涉到使用者究竟對於自己的資料有沒有實質的控制權，還是說一旦文章上了BSP之後就只能任無名宰割。沒錯，這是一個使用率低的功能，但卻是具有重要意義，是無名目前唯一可以讓使用者放心，覺得自己還擁有資料控制權的功能。沒有想通這一點，就貿然把備份功能取消，徒然引起網友的恐慌，代表著無名的決策者的眼光沒有這麼長遠。
+一個備份功能，可以牽涉到這麼多的面向，這可以證明用什麼十萬分之六的使用率來解讀功能的重要性，是完全沒有意義的。統計是個好工具，但是胡亂解讀或是擴大解釋數字的意義，反倒是一場災難。諸位在公告裡仍然搞不懂網友為何反彈的工程師，看到這裡，你們到底想清楚了沒？
+隨機推薦
+
+創意萬聖節 (1)
+你看過知名Web/科技公司的辦公室嗎？ (4)
+Computer Science算不算Science？ (10)
+Play Google (2)
+魔獸電影 : [...]</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/06/04/the_importance_of_backup/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/06/04/the_importance_of_backup/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/xLRP7tbqudc/</feedburner:origLink></item><item><title>YouTube 特大號 (YouTube XL)</title><link>http://feedproxy.google.com/~r/mmdays/~3/KA7oLiNxwaU/</link><category>Google</category><category>Mr. Saturday</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Saturday</dc:creator><pubDate>Wed, 03 Jun 2009 04:00:39 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7397</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="../category/mr-saturday/" target="_blank"><strong><span style="color: #993300;">Mr. Saturday</span></strong></a></p>
+<p>YouTube 今天推出了特大號版本，<a href="http://www.youtube.com/xl" target="_blank">http://www.youtube.com/xl</a>，嗯 &#8230; 真的還 &#8230; 滿大的，所以下面的截圖都擺不下了：<br />
+<img class="aligncenter size-large wp-image-7398" title="youtube-xl" src="http://mmdays.com/wp-content/uploads/2009/06/youtube-xl-1024x521.jpg" alt="youtube-xl" width="1024" height="521" /></p>
+<p><span id="more-7397"></span></p>
+<p>那麼 YouTube 這樣搞有什麼用處呢？其實理由很明顯：<strong>這不就是適合放在電視上面的頁面設計嗎</strong>？這樣說穿了應該大家可以清楚 YouTube 的目的了吧。要在電視上看到這個功能很簡單，只有你家裡有 PlayStation 3 可以上網，用 PS 3 連上 YouTube 就會自動跑出 YouTube 特大號了。</p>
+<p>本篇文章標題取材自&#8221;大衛特大號&#8221; XD<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2007/12/22/meeya/" title="[客座] 網路行銷黑暗兵法，Meeya零時差爆紅？ ">[客座] 網路行銷黑暗兵法，Meeya零時差爆紅？  (3)</a></li>
+<li><a href="http://mmdays.com/2008/08/25/immune_system/" title="免疫系統一日遊">免疫系統一日遊 (3)</a></li>
+<li><a href="http://mmdays.com/2009/01/14/digital_embryo/" title="胚胎最初三分鐘">胚胎最初三分鐘 (0)</a></li>
+<li><a href="http://mmdays.com/2008/04/17/aperture_problem/" title="視覺皮質與孔徑問題">視覺皮質與孔徑問題 (2)</a></li>
+<li><a href="http://mmdays.com/2007/02/27/googleserver/" title="Google元老級server">Google元老級server (0)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/kz-g0HBuR5Skdrn3YYAXPeQEvek/0/da"><img src="http://feedads.g.doubleclick.net/~a/kz-g0HBuR5Skdrn3YYAXPeQEvek/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/kz-g0HBuR5Skdrn3YYAXPeQEvek/1/da"><img src="http://feedads.g.doubleclick.net/~a/kz-g0HBuR5Skdrn3YYAXPeQEvek/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/OFXlJt9Vc_c" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/KA7oLiNxwaU" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Saturday
+YouTube 今天推出了特大號版本，http://www.youtube.com/xl，嗯 &amp;#8230; 真的還 &amp;#8230; 滿大的，所以下面的截圖都擺不下了：
+
+
+那麼 YouTube 這樣搞有什麼用處呢？其實理由很明顯：這不就是適合放在電視上面的頁面設計嗎？這樣說穿了應該大家可以清楚 YouTube 的目的了吧。要在電視上看到這個功能很簡單，只有你家裡有 PlayStation 3 可以上網，用 PS 3 連上 YouTube 就會自動跑出 YouTube 特大號了。
+本篇文章標題取材自&amp;#8221;大衛特大號&amp;#8221; XD
+隨機推薦
+
+一窺Steve Ballmer的辦公室 (3)
+P2P網路電視測試報告解讀(上) - 現行基本原理介紹 (8)
+Wedex: 10 個更新的服務 (2)
+Little Ms. Happy Birthday 看電影 (7)
+MMDays 本週回顧〈01/27 ~ 2/3，2008〉 (1)</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/06/03/youtube-xl/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/06/03/youtube-xl/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/OFXlJt9Vc_c/</feedburner:origLink></item><item><title>[快訊] 無名恢復備份 XML 下載功能</title><link>http://feedproxy.google.com/~r/mmdays/~3/IISdTWylvhI/</link><category>Mr. Friday</category><category>網路新聞</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Tue, 02 Jun 2009 23:26:11 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7392</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>看來網友的串連抗議有效。剛才<a href="http://www.wretch.cc/blog/wretchoffice/9386129" rel="nofollow">無名公告</a>，今天6/3下午7:00前恢復網誌XML下載。</p>
+<p>這篇公告裡同時提到了當初決定停止備份下載的理由：</p>
+<blockquote><p>大家都知道無名小站有很多功能，背後都是程式與系統讓這些功能可以運作，而功能與功能間有時會互相關連，因此不論是維護平台的妥善運作，或是改進現有功能、開發新功能，都是很複雜的事，常常牽一髮而動全身。</p>
+<p>例如一個功能的改版，因為與其他功能有關連而互相牽制，如果改了A但是沒調B也許就會發生異常，在確認這些情況時都讓工程師花的時間更多，開發的進度也無法加快。舉個例子，像是「網誌」要增加一個新功能的話，除了開發新功能的程式之外，工程師還必須檢查其他所有跟「網誌」有關的系統，看看新功能對於原來有的功能會不會產生影響，會的話也要一併調整。這些檢查與調整的工作有時會比「寫新的功能」也許還繁複。</p>
+<p>今年無名小站的工程師們展開了一個計畫—希望把無名小站的系統調整的更好，其中一個部分就是希望把一些使用率很低的功能安排退休，讓日後在開發新功能時，就不會為配合修改這些使用率很低的功能而延遲新功能的推出。</p>
+<p>所以在4/27，無名小站公告有九項使用率很低很低的功能即將在5/26終止服務（詳見4/27之公告），其中一項就是「網誌備份XML下載」。</p></blockquote>
+<blockquote><p>在預告終止九項功能服務之公告上線後，工作人員也有繼續在觀察這些功能的使用情況，發現使用率仍然是相當的低。雖然有少數會員討論，工作人員們認為「使用情況應該是代表大多數會員實際需要這項功能的指標」，所以仍然依照原訂的計畫，在公告了一個月之後把預告的九項功能終止服務了。</p>
+<p>但是5/26功能終止服務之後，也許讓一些不必要的擔心更加被放大了，工作人員們一來覺得很奇怪「但是明明用的人就很少很少啊（十萬分之六） 」，二來也想設法了解到底會員們真正在意的癥結是什麼？而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」</p>
+<p>老查在這裡要稍微解釋一下，自己家裡的個人電腦，因為我們自己既是使用者又是維護者（家裡的電腦大多是自己在維護吧？），所以我們需要自己來做備份。但在使用網站時，各網站都會以維持網站系統與資料穩定、強化網友使用便利性為責任，以無名小站來說，無名小站有專業的工程師<strong>盡力</strong>維護系統順暢、備份網站資料庫，讓網友可以放心地使用。</p></blockquote>
+<p>裡面有幾點我覺得有值得探討之處，包括這幾天以來在網路上看到的一些疑問。不過現在限於篇幅，晚些時間會再另開文章討論。現在值得慶祝的是，網誌備份恢復了，看來網友的抗議串聯與威脅出走，還是有效的呢。<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2007/02/23/%e6%90%ac%e9%81%8b%e6%a9%9f%e5%99%a8%e4%ba%babigdog/" title="搬運機器人BigDog">搬運機器人BigDog (4)</a></li>
+<li><a href="http://mmdays.com/2009/05/16/wolfram-alpha/" title="Wolfram Alpha 正式上線">Wolfram Alpha 正式上線 (13)</a></li>
+<li><a href="http://mmdays.com/2007/05/13/video-editng/" title="虛擬真實交夾">虛擬真實交夾 (0)</a></li>
+<li><a href="http://mmdays.com/2008/02/13/re-future-education/" title="教育柏拉圖的迴響">教育柏拉圖的迴響 (6)</a></li>
+<li><a href="http://mmdays.com/2007/11/15/blogaward_final/" title="全球華文部落格大獎，MMDAYS 決選入圍公告">全球華文部落格大獎，MMDAYS 決選入圍公告 (5)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/LUWPD7IWUrpTU7kmKSXNf-x1W6U/0/da"><img src="http://feedads.g.doubleclick.net/~a/LUWPD7IWUrpTU7kmKSXNf-x1W6U/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/LUWPD7IWUrpTU7kmKSXNf-x1W6U/1/da"><img src="http://feedads.g.doubleclick.net/~a/LUWPD7IWUrpTU7kmKSXNf-x1W6U/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/0Ip4QVenROA" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/IISdTWylvhI" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+看來網友的串連抗議有效。剛才無名公告，今天6/3下午7:00前恢復網誌XML下載。
+這篇公告裡同時提到了當初決定停止備份下載的理由：
+大家都知道無名小站有很多功能，背後都是程式與系統讓這些功能可以運作，而功能與功能間有時會互相關連，因此不論是維護平台的妥善運作，或是改進現有功能、開發新功能，都是很複雜的事，常常牽一髮而動全身。
+例如一個功能的改版，因為與其他功能有關連而互相牽制，如果改了A但是沒調B也許就會發生異常，在確認這些情況時都讓工程師花的時間更多，開發的進度也無法加快。舉個例子，像是「網誌」要增加一個新功能的話，除了開發新功能的程式之外，工程師還必須檢查其他所有跟「網誌」有關的系統，看看新功能對於原來有的功能會不會產生影響，會的話也要一併調整。這些檢查與調整的工作有時會比「寫新的功能」也許還繁複。
+今年無名小站的工程師們展開了一個計畫—希望把無名小站的系統調整的更好，其中一個部分就是希望把一些使用率很低的功能安排退休，讓日後在開發新功能時，就不會為配合修改這些使用率很低的功能而延遲新功能的推出。
+所以在4/27，無名小站公告有九項使用率很低很低的功能即將在5/26終止服務（詳見4/27之公告），其中一項就是「網誌備份XML下載」。
+在預告終止九項功能服務之公告上線後，工作人員也有繼續在觀察這些功能的使用情況，發現使用率仍然是相當的低。雖然有少數會員討論，工作人員們認為「使用情況應該是代表大多數會員實際需要這項功能的指標」，所以仍然依照原訂的計畫，在公告了一個月之後把預告的九項功能終止服務了。
+但是5/26功能終止服務之後，也許讓一些不必要的擔心更加被放大了，工作人員們一來覺得很奇怪「但是明明用的人就很少很少啊（十萬分之六） 」，二來也想設法了解到底會員們真正在意的癥結是什麼？而在做了一些了解之後，發現也許會員們不一定真正會經常需要使用「XML檔案備份」功能，但是長久以來電腦專家提醒大家要常備份的觀念，讓很多人覺得「有備份工具好像比較安心」
+老查在這裡要稍微解釋一下，自己家裡的個人電腦，因為我們自己既是使用者又是維護者（家裡的電腦大多是自己在維護吧？），所以我們需要自己來做備份。但在使用網站時，各網站都會以維持網站系統與資料穩定、強化網友使用便利性為責任，以無名小站來說，無名小站有專業的工程師盡力維護系統順暢、備份網站資料庫，讓網友可以放心地使用。
+裡面有幾點我覺得有值得探討之處，包括這幾天以來在網路上看到的一些疑問。不過現在限於篇幅，晚些時間會再另開文章討論。現在值得慶祝的是，網誌備份恢復了，看來網友的抗議串聯與威脅出走，還是有效的呢。
+隨機推薦
+
+[客座] 創造商品，商品資訊，商品口碑，下一步呢? (0)
+海角七號之奇摩部落格搜尋教我們的事&amp;#8230; (7)
+來自Yahoo!的網站分析工具 (3)
+Windows Presentation Foundation (1)
+把你的手機變身為街景導航手機吧：Google Map Mobile 2.3版釋出！ (7)</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/06/03/xml_backup_returns/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/06/03/xml_backup_returns/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/0Ip4QVenROA/</feedburner:origLink></item><item><title>在成名的那一瞬間，你準備好承受壓力了嗎？</title><link>http://feedproxy.google.com/~r/mmdays/~3/fjf_4muVry4/</link><category>Mr. Friday</category><category>娛樂</category><category>媒體</category><category>新聞</category><category>生活</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Tue, 02 Jun 2009 09:50:14 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7387</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>這篇只是一點雜感，想看技術性文章的人可以先行離開。今天在網路上看到一則讓人有點難過的新聞，在Britain’s Got Talent一鳴驚人、一夕之間在全球爆紅的Susan Boyle，在決賽爆冷落敗給舞蹈團體Diversity之後，不堪壓力住進了倫敦Priory進行精神療養。</p>
+<p><img src="http://static.guim.co.uk/sys-images/Media/Pix/pictures/2009/5/29/1243593583558/Susan-Boyle-001.jpg" alt="" /></p>
+<p>〈<a href="http://www.guardian.co.uk/media/2009/jun/02/britains-got-talent-susan-boyle-ofcom">圖片來源：Guardian</a>〉</p>
+<p>〈因為版權問題，相關影片請大家點超連結去Youtube看吧。<a href="http://www.youtube.com/watch?v=zMz03DnirQY">Britain’s Got Talent獎項揭曉瞬間</a>的畫面、<a href="http://www.youtube.com/watch?v=3nafdWIXZrI">Susan Boyle決賽表演</a>，還有……拿到冠軍的<a href="http://www.youtube.com/watch?v=KJIz8BgRQc0">Diversity表演</a>〉</p>
+<p><span id="more-7387"></span></p>
+<p>Susan Boyle小時候因為先天性學習障礙，長期獨居，直到48歲仍小姑獨處。參加Britain’&#8217;s Got Talent而大紅，或許是她曾經期待的事，但是當瞬間成名的壓力真的襲來，媒體蜂湧而至，所有過去全被挖出來談論，連CNN也連續好幾天報導討論相關新聞。當小報媒體駐守在她家門口等著拍她一舉一動時，Susan Boyle似乎開始承受不住，破口大罵。Diversity拿下冠軍之後，傳聞指出Susan在後台氣得大罵: “I hate this show ! “ 隔天，她就進了醫院。</p>
+<p>Susan的遭遇讓Britain’s Got Talent這個實境秀遭遇很多批評，一些人認為Susan在賽前受訪時的精神狀態就不是太好，節目應該要替參賽者做心理評估，不要讓Susan上台；但是說實話，如果你是節目製作人，你會願意這樣做嗎？如果你是Susan，你會願意放棄最後一場比賽嗎？又如果你是觀眾，你願意看一場沒有Susan Boyle的冠軍賽嗎？</p>
+<p>前一陣子作品來過台灣展出的Andy Warhol有過一句名言：『在未來，人人都可以成名15分鐘 - In the future everyone will be famous for fifteen minutes.』當電視機發明、普及之後，這世界真的有了一個能夠瞬間讓人成名的強力播送媒介，而網路發達之後，傳播速度更是到了無遠弗屆的地步。台灣有任何電視台播出過Britain’s Got Talent嗎？沒有，那大家從哪看到她表演的？答案很明顯，網路。</p>
+<p>電視，以及新型態的媒體──網路，造就了像是Paul Pouts、Susan Boyle這樣一夕爆紅的傳奇人物，然後接著名氣而來的，就是舖天蓋地而來的炒作、宣傳、八卦……。我們要怪媒體給這些人壓力嗎？也很難，事實上這就是人性，觀眾愛看，自然就會有記者去挖掘報導。</p>
+<p>寫這篇文章，並不是要情緒性的指摘誰才是導致Susan住院的『兇手』。事實上Susan的實際精神狀況也未可知。只是想起Susan 唱的 I dreamed a dream歌詞，對照現實，有種不勝唏噓的感覺〈歌詞轉錄自<a href="http://www.wretch.cc/blog/mooneyes/22013792">這裡</a>〉：</p>
+<p><a href="http://www.youtube.com/watch?v=9lp0IWv8QZY">http://www.youtube.com/watch?v=9lp0IWv8QZY</a></p>
+<blockquote><p><span style="color: #ff0000;">I dreamed a dream in time gone by<br />
+我夢到往日的一個夢<br />
+When hope was high<br />
+那時充滿希望<br />
+And life worth living<br />
+生命有價值<br />
+I dreamed that love would never die<br />
+我夢到愛永不凋零<br />
+I dreamed that God would be forgiving<br />
+我夢到天主是寬容的<br />
+Then I was young and unafraid<br />
+那時我仍年輕無懼<br />
+And dreams were made and used and wasted<br />
+我浪擲夢想<br />
+There was no ransom to be paid<br />
+而無須付出任何代價<br />
+No song unsung, no wine untasted<br />
+無歌不唱, 無酒不嚐<br />
+But the tigers come at night<br />
+然而老虎卻在夜裡<br />
+With their voices soft as thunder<br />
+帶著他們低沈如雷的聲音來到<br />
+As they tear your hope apart<br />
+他們將你的希望撕裂<br />
+And they turn your dream to shame<br />
+他們讓你的夢想幻�<br />
+He slept a summer by my side<br />
+他陪了我一個夏季<br />
+He filled my days with endless wonder<br />
+用無盡的驚喜充實了我的生活<br />
+He took my childhood in his stride<br />
+他輕易地豐富了我年輕的時光<br />
+But he was gone when autumn came<br />
+但秋天降臨時他離去了<br />
+And still I dream he&#8217;ll come to me<br />
+而我還夢想著他會回到我身邊<br />
+That we will live the years together<br />
+那我們就可以永遠在一起<br />
+But there are dreams that cannot be<br />
+但那是無法實現的夢想<br />
+And there are storms we cannot weather<br />
+那是我們無法捱過的暴風雨<br />
+I had a dream my life would be<br />
+我曾夢想著我的人生<br />
+So different from this hell I&#8217;m living<br />
+完全不像我現在般的生活<br />
+So different now from what it seemed<br />
+現在不像我曾經想像的<br />
+Now life has killed the dream I dreamed.<br />
+如今現實的生活已經扼殺了我昔日的夢想</span></p></blockquote>
+<p>兩相對照，Susan唱的歌似乎與她的故事有可以呼應之處。但是，何必要去追求那不實際的夢想呢。有時候你覺得自己過的不是你夢想中的生活，你渴望成名，渴望富有，渴望全世界都矚目你。可是當你成名了，你會不會才發現，原來單純、平靜的生活才是妳要的？</p>
+<p>我們都會有夢想，人也因夢想而偉大。但是當夢想突然成真時，你確定你也已經準備好接受那隨之而來的代價呢？</p>
+<p>===</p>
+<p>順道一提，Susan的遭遇讓我想到另一個姊妹秀：American Idol，前不久也才揭曉冠軍得主。同樣的，原本的冠軍大熱門、走邪氣美少年路線的Adam Lambert竟然輸了，輸給一副新好男人樣但無啥爆點的Kris Allen…</p>
+<p>〈以下推薦<a href="http://www.david-archuleta.cn/viewthread.php?tid=19596&amp;extra=page%3D1">必看影片</a>：看看美國人得知冠軍是Kris Allen後的反應… 〉</p>
+<p><object width="425" height="344" data="http://www.youtube.com/v/L-SjAs9TuJo&amp;hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/L-SjAs9TuJo&amp;hl=zh_TW&amp;fs=1" /><param name="allowfullscreen" value="true" /></object></p>
+<p><object width="560" height="340" data="http://www.youtube.com/v/LRu_v5f5LJQ&amp;hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/LRu_v5f5LJQ&amp;hl=zh_TW&amp;fs=1" /><param name="allowfullscreen" value="true" /></object></p>
+<p>有沒有這麼誇張？上面的連結裡還有很多更妙的…<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2008/06/25/phrasr/" title="Phrasr:用圖片來說一句話">Phrasr:用圖片來說一句話 (3)</a></li>
+<li><a href="http://mmdays.com/2008/03/03/%e6%b6%88%e8%b2%bb%e8%80%85%e8%87%aa%e8%a1%8c%e8%a8%82%e5%83%b9%e7%9a%84%e5%8f%a3%e7%a2%91%e8%a1%8c%e9%8a%b7/" title="[客座] 消費者自行訂價的口碑行銷">[客座] 消費者自行訂價的口碑行銷 (1)</a></li>
+<li><a href="http://mmdays.com/2007/02/16/%e5%a5%bd%e5%8f%af%e6%84%9b%e7%9a%84%e8%b2%93%e5%92%aa%e5%95%8a/" title="好可愛的貓咪啊&#8230;">好可愛的貓咪啊&#8230; (0)</a></li>
+<li><a href="http://mmdays.com/2007/05/12/3d/" title="嵌入3D物件式廣告">嵌入3D物件式廣告 (1)</a></li>
+<li><a href="http://mmdays.com/2007/06/30/creative-3/" title="創意光碟">創意光碟 (0)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/HZ5UNjjj189M73bhSYOZOHOLqu0/0/da"><img src="http://feedads.g.doubleclick.net/~a/HZ5UNjjj189M73bhSYOZOHOLqu0/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/HZ5UNjjj189M73bhSYOZOHOLqu0/1/da"><img src="http://feedads.g.doubleclick.net/~a/HZ5UNjjj189M73bhSYOZOHOLqu0/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/w6Pch6ftY-w" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/fjf_4muVry4" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+這篇只是一點雜感，想看技術性文章的人可以先行離開。今天在網路上看到一則讓人有點難過的新聞，在Britain’s Got Talent一鳴驚人、一夕之間在全球爆紅的Susan Boyle，在決賽爆冷落敗給舞蹈團體Diversity之後，不堪壓力住進了倫敦Priory進行精神療養。
+
+〈圖片來源：Guardian〉
+〈因為版權問題，相關影片請大家點超連結去Youtube看吧。Britain’s Got Talent獎項揭曉瞬間的畫面、Susan Boyle決賽表演，還有……拿到冠軍的Diversity表演〉
+
+Susan Boyle小時候因為先天性學習障礙，長期獨居，直到48歲仍小姑獨處。參加Britain’&amp;#8217;s Got Talent而大紅，或許是她曾經期待的事，但是當瞬間成名的壓力真的襲來，媒體蜂湧而至，所有過去全被挖出來談論，連CNN也連續好幾天報導討論相關新聞。當小報媒體駐守在她家門口等著拍她一舉一動時，Susan Boyle似乎開始承受不住，破口大罵。Diversity拿下冠軍之後，傳聞指出Susan在後台氣得大罵: “I hate this show ! “ 隔天，她就進了醫院。
+Susan的遭遇讓Britain’s Got Talent這個實境秀遭遇很多批評，一些人認為Susan在賽前受訪時的精神狀態就不是太好，節目應該要替參賽者做心理評估，不要讓Susan上台；但是說實話，如果你是節目製作人，你會願意這樣做嗎？如果你是Susan，你會願意放棄最後一場比賽嗎？又如果你是觀眾，你願意看一場沒有Susan Boyle的冠軍賽嗎？
+前一陣子作品來過台灣展出的Andy Warhol有過一句名言：『在未來，人人都可以成名15分鐘 - In the future everyone will be famous for fifteen minutes.』當電視機發明、普及之後，這世界真的有了一個能夠瞬間讓人成名的強力播送媒介，而網路發達之後，傳播速度更是到了無遠弗屆的地步。台灣有任何電視台播出過Britain’s Got Talent嗎？沒有，那大家從哪看到她表演的？答案很明顯，網路。
+電視，以及新型態的媒體──網路，造就了像是Paul Pouts、Susan Boyle這樣一夕爆紅的傳奇人物，然後接著名氣而來的，就是舖天蓋地而來的炒作、宣傳、八卦……。我們要怪媒體給這些人壓力嗎？也很難，事實上這就是人性，觀眾愛看，自然就會有記者去挖掘報導。
+寫這篇文章，並不是要情緒性的指摘誰才是導致Susan住院的『兇手』。事實上Susan的實際精神狀況也未可知。只是想起Susan 唱的 I dreamed a dream歌詞，對照現實，有種不勝唏噓的感覺〈歌詞轉錄自這裡〉：
+http://www.youtube.com/watch?v=9lp0IWv8QZY
+I dreamed a dream in time gone by
+我夢到往日的一個夢
+When hope was high
+那時充滿希望
+And [...]</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/06/03/15_minutes/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/06/03/15_minutes/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/w6Pch6ftY-w/</feedburner:origLink></item><item><title>網路世界溝通的大一統平台，真正的殺手級應用Google Wave出現？</title><link>http://feedproxy.google.com/~r/mmdays/~3/HgDn4ouQoDo/</link><category>Google</category><category>Mr. Friday</category><category>Web 2.0</category><category>專欄</category><category>網路新聞</category><category>網路產業</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Fri, 29 May 2009 06:07:01 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7383</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>真是太恐怖了。不過半天沒上網，一打開電腦發現怎麼大家談論的都是同一個話題──Google昨天推出的Google Wave。乖乖不得了，這個軟體只在昨天的Google I/O研討會上宣布，還有在<a href="http://wave.google.com/">網站上放Demo短片</a>而已，根本還沒推出！短短時間內就引起這麼大的討論。這莫非是…傳說中的甜蜜點？</p>
+<p><object width="560" height="340" data="http://www.youtube.com/v/v_UyVmITiYQ&amp;hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/v_UyVmITiYQ&amp;hl=zh_TW&amp;fs=1" /><param name="allowfullscreen" value="true" /></object></p>
+<p>Google Wave有理由自豪。這是今年目前為止第一個我看過覺得一定會紅的產品。雖然介面乍看之下有一點像是…M$的outlook，但是卻大大的進化了，除了原本就有的信件與即時通訊功能、訊息是以Wave排列〈類似GMail 是以Mail Thread排列〉這些基本款的功能以外，還加入了各式各樣的影音圖文介面，整合了時下流行的社交溝通工具〈Blog、Facebook、Twitter…〉，更炫的是它還能即時更新，你打的每個字對方就立刻會看見…可以用動畫模式重新Replay整個訊息流的產生過程…還可以即時搜尋訊息〈順便把Twitter最近的即時搜尋功能幹掉〉……而且還是…Open Source！！</p>
+<p><span id="more-7383"></span></p>
+<p><a href="http://4.bp.blogspot.com/_7ZYqYi4xigk/Sh40hRLylhI/AAAAAAAAD10/sLJ28_3Fe9E/s1600-h/Google_Wave_snapshots_inbox.png"><img src="http://4.bp.blogspot.com/_7ZYqYi4xigk/Sh40hRLylhI/AAAAAAAAD10/sLJ28_3Fe9E/s400/Google_Wave_snapshots_inbox.png" alt="" width="547" height="363" /></a></p>
+<p>網路上我已經看到很多人對它Demo顯示出的功能感到驚艷。這裡恕我懶惰，直接剪貼一下<a href="http://wp.tenz.net/archives/730">tenz寫好的介紹</a>：</p>
+<blockquote><p>Google Wave 是一個 open source 即時訊息交換平台。這個訊息交換平台具有以下嚇死人的特色：</p>
+<ul>
+<li>即時：任何訊息都可以像即時通訊軟體一樣，立即讓所有參與者「逐字看到」訊息－－IM 還做不到這點！</li>
+<li>多人參與：像 email 一樣可以拉很多人進到訊息來，但拉人非常容易，只要拖拉頭像就可以。</li>
+<li>可中途拉人亂入，但不失結構：一般 IM 或 Email 也可在討論進行到一半時拉人進來參與，但後進者會看不到整個訊息討論的過程；但 Google Wave 沒這問題，後進者還是可以看到整個討論串。</li>
+<li>大家都可以編輯：這就很像 Wiki 一樣，大家可以編輯討論的內容，修改記錄會保留下來，並且用色塊標示。 多人同時編時還可以看到每個人正在編輯的部分，也是完全即時的（就跟Google Docs上的一樣）</li>
+<li>可回溯：整個討論串可以像影片一樣倒帶，讓所有人清楚看到討論發展過程中誰做了什麼事。</li>
+<li>「夾檔」概念要修正：過去用 email 夾檔或用 twitter 夾帶 twitpic 照片連結的蠢事會消失。要分享檔案，直接把檔案拖拉到討論串就行。例如有正妹圖要分享，把正妹圖拉到討論過程中就可以了，不用再另存到圖床再貼連結；相信檔案也是一樣，拖拉一下，所有參與討論的人都可以看到同一個檔案，也不再會有檔案版本不同的問題。</li>
+<li>可內嵌到別的網頁中：透過 API 交換資料，甚至可以做到在部落格、Twitter或其他網站上同步某個討論串的內容與過程。</li>
+<li>加入機器人：機器人就是會自動做出各種回應的程式，可以當成討論參與者拉進討論串裡。把你需要的機器人加進討論成員中，可以幹各種各樣的壞事；例如把 twitter 機器人拉進討論串裡，然後在討論串中發一個新訊息，新訊息就會變成一則推訊，post到 twitter上，並且把後續的回應同步回來。如果拉進去的是blogger機器人，你的討論串就會變成 blog 上的一篇新文章，連網友回應都能即時同步！甚至還有翻譯機器人，能「逐字」立即把你正在打的訊息翻成外文給別人看！</li>
+<li>加入 Gadget：iGoogle 的 Gadget 可以直接拉到 Google Wave 討論串裡，這樣就能一堆人一起玩數獨、做簡單民調、在 Google 地圖上加註解等更多有趣互動，而且全部是即時反應的！</li>
+</ul>
+</blockquote>
+<p>好，功能介紹完畢。現在來談談我為什麼會驚艷。如果只是功能很炫，那大眾的熱度頂多只能維持個半年，但Google Wave令人注目的是它的設計目的與用途。就概念上來說，我認為Google Wave的源頭可以追溯至90年代的Groupware，或者稱為Collaborative Software名詞談起。根據<a href="http://en.wikipedia.org/wiki/Collaborative_software">維基百科</a>上的定義，Collaborative Software是：</p>
+<blockquote><p><strong>Collaborative software</strong> (also referred to as <strong>groupware</strong> or <strong>workgroup support systems</strong>) is software designed to help people involved in a common task achieve their goals. Collaborative software is the basis for <a href="http://en.wikipedia.org/wiki/Computer_supported_cooperative_work">computer supported cooperative work</a>.</p></blockquote>
+<p>Collaborative Software我暫且翻譯為協同作業軟體，其本意是用來提升員工的溝通與工作效率。發明的目的主要是讓不同地區的員工也能一起合作。</p>
+<blockquote><p>“It is not a question of how well each process works; the question is how well they all work together.” – Lloyd Dobyns and Clare Crawford-Mason, Think about quality</p></blockquote>
+<blockquote><p><strong><span style="color: #ff0000;">The design intent is to transform the way </span></strong><a href="http://en.wikipedia.org/wiki/Document"><strong><span style="color: #ff0000;">documents</span></strong></a><strong><span style="color: #ff0000;"> and </span></strong><a href="http://en.wikipedia.org/wiki/Rich_media"><strong><span style="color: #ff0000;">rich media</span></strong></a><strong><span style="color: #ff0000;"> are shared in order to enable more effective team collaboration.</span></strong></p>
+<p>Collaboration, with respect to information technology, seems to have several definitions. Some are defensible but others are so broad they lose any meaningful application. Understanding the differences in human interactions is necessary to ensure the appropriate technologies are employed to meet interaction needs.</p></blockquote>
+<p>從定義上來說，Google Wave很明顯的可以說就是屬於Collaborative Software的一種，除了它現在的目標市場並不是用在工作職場〈搞不好以後會是〉，而是給一般大眾用的社交溝通平台。</p>
+<p>Groupware / Collaboration Software的概念很早就被提出，在當時也的確造成一股話題。還記得當初E-mail開始在許多公司內部流傳時，給那些上了年紀的中高階層主管帶來的震撼嗎？在當時，E-mail的確可以說是很進步的一套工具，取代了過往繁複的實體收/發信件流程。可是，十年二十年過去了，Web 2.0的溝通工具日新月異，E-mail已經不是在網路上與他人溝通的唯一管道。找朋友喝下午茶？先開個MSN。找好久不見的學校同學？用Facebook。看看網路上大家在閒聊什麼？開Twitter…人的溝通方式，已經變了百百種，但絕大部分的E-mail軟體…卻還是長那個樣子。</p>
+<p>溝通的本質、還有需求都是不變的，但是形式上可以有很多種。不同形式間的溝通需要轉換，造成了成本。如果可以，我們希望有一個大一統的平台，整合各種形式的「溝通」。</p>
+<p>無獨有偶的，在<a href="http://googleblog.blogspot.com/2009/05/went-walkabout-brought-back-google-wave.html">Google Blog</a>上，作者談到了Google Wave的創作緣起：</p>
+<blockquote><p>we also started thinking about what might come next for us after maps.<br />
+As always, Jens came up with the answer: <span style="color: #ff0000;">communication</span>. He pointed out that two of the most spectacular successes in digital communication, email and instant messaging, were originally designed in the &#8217;60s to imitate analog formats — email mimicked snail mail, and IM mimicked phone calls. Since then, so many different forms of communication had been invented — blogs, wikis, collaborative documents, etc. — and computers and networks had dramatically improved. So Jens proposed a new communications model that presumed all these advances as a starting point, and I was immediately sold. (Jens insists it took him hours to convince me, but I like my version better.)</p></blockquote>
+<p>Email模仿信件，IM模仿電話，但是溝通形式才不只這幾種呢，還有部落格、維基、共享文件…還有好多新的東西出現。有沒有軟體，可以統一這一切的溝通形式？</p>
+<p>我不知道答案最後會是什麼，但是目前為止，<a href="http://wave.google.com/">Google Wave</a>是最接近的答案。<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2008/02/24/%e5%8f%a3%e7%a2%91%e8%a1%8c%e9%8a%b7%e6%98%af%e6%96%b0%e7%9a%84%e5%89%b5%e6%84%8f%e8%a1%8c%e9%8a%b7%e5%97%8e/" title="[客座] 口碑行銷是新的創意行銷嗎?">[客座] 口碑行銷是新的創意行銷嗎? (2)</a></li>
+<li><a href="http://mmdays.com/2007/07/12/game_of_life/" title="Conway: Game of Life">Conway: Game of Life (7)</a></li>
+<li><a href="http://mmdays.com/2008/05/09/diy-surface-table-ii/" title="DIY Surface Table (II): 瞭解紅外光 &#038; DI (Diffused Illumination)">DIY Surface Table (II): 瞭解紅外光 &#038; DI (Diffused Illumination) (5)</a></li>
+<li><a href="http://mmdays.com/2007/03/22/apprentice/" title="誰是接班人5">誰是接班人5 (3)</a></li>
+<li><a href="http://mmdays.com/2007/01/31/%e9%90%b5%e6%8b%b3%e7%9c%9f%e4%ba%ba%e7%89%88/" title="鐵拳真人版">鐵拳真人版 (0)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/LieAEoJlxD7ALmQzwp4bALBApsM/0/da"><img src="http://feedads.g.doubleclick.net/~a/LieAEoJlxD7ALmQzwp4bALBApsM/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/LieAEoJlxD7ALmQzwp4bALBApsM/1/da"><img src="http://feedads.g.doubleclick.net/~a/LieAEoJlxD7ALmQzwp4bALBApsM/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/DGZClgNhYSs" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/HgDn4ouQoDo" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+真是太恐怖了。不過半天沒上網，一打開電腦發現怎麼大家談論的都是同一個話題──Google昨天推出的Google Wave。乖乖不得了，這個軟體只在昨天的Google I/O研討會上宣布，還有在網站上放Demo短片而已，根本還沒推出！短短時間內就引起這麼大的討論。這莫非是…傳說中的甜蜜點？
+
+Google Wave有理由自豪。這是今年目前為止第一個我看過覺得一定會紅的產品。雖然介面乍看之下有一點像是…M$的outlook，但是卻大大的進化了，除了原本就有的信件與即時通訊功能、訊息是以Wave排列〈類似GMail 是以Mail Thread排列〉這些基本款的功能以外，還加入了各式各樣的影音圖文介面，整合了時下流行的社交溝通工具〈Blog、Facebook、Twitter…〉，更炫的是它還能即時更新，你打的每個字對方就立刻會看見…可以用動畫模式重新Replay整個訊息流的產生過程…還可以即時搜尋訊息〈順便把Twitter最近的即時搜尋功能幹掉〉……而且還是…Open Source！！
+
+
+網路上我已經看到很多人對它Demo顯示出的功能感到驚艷。這裡恕我懶惰，直接剪貼一下tenz寫好的介紹：
+Google Wave 是一個 open source 即時訊息交換平台。這個訊息交換平台具有以下嚇死人的特色：
+
+即時：任何訊息都可以像即時通訊軟體一樣，立即讓所有參與者「逐字看到」訊息－－IM 還做不到這點！
+多人參與：像 email 一樣可以拉很多人進到訊息來，但拉人非常容易，只要拖拉頭像就可以。
+可中途拉人亂入，但不失結構：一般 IM 或 Email 也可在討論進行到一半時拉人進來參與，但後進者會看不到整個訊息討論的過程；但 Google Wave 沒這問題，後進者還是可以看到整個討論串。
+大家都可以編輯：這就很像 Wiki 一樣，大家可以編輯討論的內容，修改記錄會保留下來，並且用色塊標示。 多人同時編時還可以看到每個人正在編輯的部分，也是完全即時的（就跟Google Docs上的一樣）
+可回溯：整個討論串可以像影片一樣倒帶，讓所有人清楚看到討論發展過程中誰做了什麼事。
+「夾檔」概念要修正：過去用 email 夾檔或用 twitter 夾帶 twitpic 照片連結的蠢事會消失。要分享檔案，直接把檔案拖拉到討論串就行。例如有正妹圖要分享，把正妹圖拉到討論過程中就可以了，不用再另存到圖床再貼連結；相信檔案也是一樣，拖拉一下，所有參與討論的人都可以看到同一個檔案，也不再會有檔案版本不同的問題。
+可內嵌到別的網頁中：透過 API 交換資料，甚至可以做到在部落格、Twitter或其他網站上同步某個討論串的內容與過程。
+加入機器人：機器人就是會自動做出各種回應的程式，可以當成討論參與者拉進討論串裡。把你需要的機器人加進討論成員中，可以幹各種各樣的壞事；例如把 twitter 機器人拉進討論串裡，然後在討論串中發一個新訊息，新訊息就會變成一則推訊，post到 twitter上，並且把後續的回應同步回來。如果拉進去的是blogger機器人，你的討論串就會變成 blog 上的一篇新文章，連網友回應都能即時同步！甚至還有翻譯機器人，能「逐字」立即把你正在打的訊息翻成外文給別人看！
+加入 Gadget：iGoogle 的 Gadget 可以直接拉到 Google Wave 討論串裡，這樣就能一堆人一起玩數獨、做簡單民調、在 Google 地圖上加註解等更多有趣互動，而且全部是即時反應的！
+
+
+好，功能介紹完畢。現在來談談我為什麼會驚艷。如果只是功能很炫，那大眾的熱度頂多只能維持個半年，但Google Wave令人注目的是它的設計目的與用途。就概念上來說，我認為Google Wave的源頭可以追溯至90年代的Groupware，或者稱為Collaborative Software名詞談起。根據維基百科上的定義，Collaborative Software是：
+Collaborative [...]</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/29/google_wave_announced/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/29/google_wave_announced/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/DGZClgNhYSs/</feedburner:origLink></item><item><title>Omegle - 完完整整的陌生</title><link>http://feedproxy.google.com/~r/mmdays/~3/KgEBK8a7YE8/</link><category>Mr. D-Day</category><category>Web 2.0</category><category>Chat</category><category>Omegle</category><category>聊天</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. D-Day</dc:creator><pubDate>Thu, 28 May 2009 00:42:42 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7377</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by <a href="http://mmdays.com/category/mr-d-day/"><span style="#3366ff;">Mr. D-Day</span></a>（本文同步刊登於 <a href="http://blog.miife.com">Miife Blog</a>）</strong></p>
+<p style="text-align: justify;"><img class="alignnone size-medium wp-image-7376" style="margin: 0pt 10px 10px 0pt; float: left;" src="http://mmdays.com/wp-content/uploads/2009/05/omegle-300x202.png" alt="omegle" width="300" height="202" />當你在咖啡館時，有多少次你會跟身旁的陌生人打招呼寒暄？在網路社群活躍的今日，即使你擁有 MSN、Facebook、Twitter 的帳號，有多少時候，你會在這些社群網站中，嘗試認識一位陌生的新朋友？當你來到 Omegle 這個網站，情形就不一樣了，你認識陌生人的機率是 99.999%。Omegle 是一個極為簡單的聊天網站，它存在的唯一目的就是，幫你挑選一位陌生人，然後讓你們開始聊天。</p>
+<p><span id="more-7377"></span></p>
+<p style="text-align: justify;">就這麼簡單？是的，就是這麼簡單！Omegle 大概我介紹過的網站中，操作最為簡單的了吧。它的特色就是沒得選擇的「隨機」與完完全全的「陌生」。隨機挑選人配對聊天的概念，我得說，感覺蠻有趣的，但是比起「隨機」，我更感興趣的是「陌生」。怎麼說呢？一般的聊天室，或是社群網站的聊天工具，我們都會知道這個人叫甚麼？也許是暱稱，也許是帳號，不管是甚麼，總是有點「東西」。但是 Omegle 就不一樣了，它統一把對方稱為 Stranger（陌生人），也就是整個聊天過程，假使你不開口問，你永遠不知道怎麼稱呼對方，更何況是男是女，是高是矮了，Omegle 給你的是一個完完整整的 “陌生”。</p>
+<p style="text-align: justify;">這種陌生的感覺，與現實生活是類似的，而且有過之而無不及，因為我們「看不到」對方。這會降低人們想聊天的興趣嗎？我想不見得，在某些情形下，反而可能更引起人們的興趣。當雙方聊開了，從陌生轉為點頭之交，要怎麼繼續下去呢？Omegle 的 “隨機” 性迫使雙方不得在結束前做個選擇，「要不要繼續交往？」（哦，不，是聯絡），交換其他的連絡方式是讓友誼繼續下去唯一的方式，否則要在茫茫人海中遇見對方的機率，可能只有拍電影才有可能。說到這，如果能男配女，女配男的話，感覺可以來辦個我愛紅娘了。</p>
+<p>Omegle : <a href="http://omegle.com">http://omegle.com</a><br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2008/06/25/mmdays-mobile/" title="MMDays有行動版網頁囉">MMDays有行動版網頁囉 (0)</a></li>
+<li><a href="http://mmdays.com/2007/07/11/the_mythical_man-month/" title="[好書介紹]人月神話 The Mythical Man-Month">[好書介紹]人月神話 The Mythical Man-Month (8)</a></li>
+<li><a href="http://mmdays.com/2007/02/23/%e9%80%a3%e8%80%81%e4%ba%ba%e9%83%bd%e7%8e%a9wii/" title="連老人都玩Wii">連老人都玩Wii (2)</a></li>
+<li><a href="http://mmdays.com/2007/03/11/mario/" title="Paper Mario">Paper Mario (0)</a></li>
+<li><a href="http://mmdays.com/2007/03/26/miyazaki/" title="全生園的燈火">全生園的燈火 (0)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/xB-_ke81RS0fJHkL_K5HdfGR-yY/0/da"><img src="http://feedads.g.doubleclick.net/~a/xB-_ke81RS0fJHkL_K5HdfGR-yY/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/xB-_ke81RS0fJHkL_K5HdfGR-yY/1/da"><img src="http://feedads.g.doubleclick.net/~a/xB-_ke81RS0fJHkL_K5HdfGR-yY/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/fM18wCe8OrM" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/KgEBK8a7YE8" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. D-Day（本文同步刊登於 Miife Blog）
+當你在咖啡館時，有多少次你會跟身旁的陌生人打招呼寒暄？在網路社群活躍的今日，即使你擁有 MSN、Facebook、Twitter 的帳號，有多少時候，你會在這些社群網站中，嘗試認識一位陌生的新朋友？當你來到 Omegle 這個網站，情形就不一樣了，你認識陌生人的機率是 99.999%。Omegle 是一個極為簡單的聊天網站，它存在的唯一目的就是，幫你挑選一位陌生人，然後讓你們開始聊天。
+
+就這麼簡單？是的，就是這麼簡單！Omegle 大概我介紹過的網站中，操作最為簡單的了吧。它的特色就是沒得選擇的「隨機」與完完全全的「陌生」。隨機挑選人配對聊天的概念，我得說，感覺蠻有趣的，但是比起「隨機」，我更感興趣的是「陌生」。怎麼說呢？一般的聊天室，或是社群網站的聊天工具，我們都會知道這個人叫甚麼？也許是暱稱，也許是帳號，不管是甚麼，總是有點「東西」。但是 Omegle 就不一樣了，它統一把對方稱為 Stranger（陌生人），也就是整個聊天過程，假使你不開口問，你永遠不知道怎麼稱呼對方，更何況是男是女，是高是矮了，Omegle 給你的是一個完完整整的 “陌生”。
+這種陌生的感覺，與現實生活是類似的，而且有過之而無不及，因為我們「看不到」對方。這會降低人們想聊天的興趣嗎？我想不見得，在某些情形下，反而可能更引起人們的興趣。當雙方聊開了，從陌生轉為點頭之交，要怎麼繼續下去呢？Omegle 的 “隨機” 性迫使雙方不得在結束前做個選擇，「要不要繼續交往？」（哦，不，是聯絡），交換其他的連絡方式是讓友誼繼續下去唯一的方式，否則要在茫茫人海中遇見對方的機率，可能只有拍電影才有可能。說到這，如果能男配女，女配男的話，感覺可以來辦個我愛紅娘了。
+Omegle : http://omegle.com
+隨機推薦
+
+今天這個新聞不好看 (32)
+客座專欄投稿 (0)
+群眾外包(Crowdsourcing)浪潮的興起(三) - 愛修機器的業餘人士 (3)
+Google Docs離線編輯即將發佈 (3)
+Google開始實驗深度Web索引 (3)</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/28/omegle/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/28/omegle/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/fM18wCe8OrM/</feedburner:origLink></item><item><title>Google 搜尋工程師談搜尋的新功能</title><link>http://feedproxy.google.com/~r/mmdays/~3/khs6L4HJIxM/</link><category>Google</category><category>Mr. Saturday</category><category>網路新聞</category><category>網路產業</category><category>Google Search Quality</category><category>Google Wonder Wheel</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Saturday</dc:creator><pubDate>Wed, 27 May 2009 23:13:45 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7371</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><span style="color: #0000ff;"><strong>[本文同步刊載於<a href="http://ai.mmdays.com" target="_blank">人工智慧研究部落格 </a><a href="http://ai.mmdays.com" target="_blank">http://ai.mmdays.com</a>]</strong></span></p>
+<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-saturday/" target="_blank"><strong><span style="color: #993300;">Mr. Saturday</span></strong></a></p>
+<p>Google 讓內部從事 search 研究的工程師們，每個人錄了一個小短片，來介紹 Google Search 上面一些重要的更新和改良。</p>
+<p>首先介紹最近新增的 spell correction 功能，Google 原本已經會在你打錯字的時候嘗試糾正你，現在 Google 要是很有信心你拼錯字時，會直接把拼字對的搜尋結果前兩筆直接給你看。</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/SWTzYAIkBdE"> <param name="movie" value="http://www.youtube.com/v/SWTzYAIkBdE" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>下面的影片談論 Google Search 的 Localization (地區化)，Google 會根據使用者所在的上網地區決定搜尋的 context：</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/Gp6t3jkvJto"> <param name="movie" value="http://www.youtube.com/v/Gp6t3jkvJto" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>下面則是用一分鐘超快速介紹了 Google Search Options，對於 UI designer 我相信相當有啟發性：</p>
+<p><span id="more-7371"></span><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/3pTk7IhgzWw"> <param name="movie" value="http://www.youtube.com/v/3pTk7IhgzWw" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Google Suggestions，也就是你在輸入搜尋關鍵字時 Google 下面出現的建議選單，是會隨使用者而不同的：</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/gDGa-U2zyUM"> <param name="movie" value="http://www.youtube.com/v/gDGa-U2zyUM" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Google Site Links：</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/8HEPjLKQnbY"> <param name="movie" value="http://www.youtube.com/v/8HEPjLKQnbY" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Google 星海羅盤！</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/_Ah7ZWYjxdM"> <param name="movie" value="http://www.youtube.com/v/_Ah7ZWYjxdM" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Google Search Options Panel：</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/FUrdD3mhVnA"> <param name="movie" value="http://www.youtube.com/v/FUrdD3mhVnA" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Product &#8220;Plus Box&#8221;，Google Product Search 現在也進到 Google Search 來了：</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/N8HcY6uww7U"> <param name="movie" value="http://www.youtube.com/v/N8HcY6uww7U" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --></p>
+<p>Google 會根據你搜尋字串的長度，來調整每個搜尋結果的摘錄小片段 (snippet)</p>
+<p><!-- start insertion by YouTube Brackets, robertbuzink.nl --><span class="youtube"><object width="425" height="350" type="application/x-shockwave-flash" data="http://www.youtube.com/v/mRPudAnOuJw"> <param name="movie" value="http://www.youtube.com/v/mRPudAnOuJw" /><param name="wmode" value="transparent" /></object></span><!-- end Youtube Brackets insertion --><br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2008/07/23/monkey_moves_arms_by_thoughts/" title="猴子使用意念移動機械手臂">猴子使用意念移動機械手臂 (0)</a></li>
+<li><a href="http://mmdays.com/2008/06/13/online-tv/" title="迎接 Online TV: 不可避免的前景">迎接 Online TV: 不可避免的前景 (7)</a></li>
+<li><a href="http://mmdays.com/2007/09/07/animal-happy/" title="歡樂動物">歡樂動物 (0)</a></li>
+<li><a href="http://mmdays.com/2007/12/22/poll_2007/" title="[投票]部落格2007年度十大爛事件投票">[投票]部落格2007年度十大爛事件投票 (12)</a></li>
+<li><a href="http://mmdays.com/2007/02/11/%e5%a6%82%e6%9e%9c%e5%85%a9%e5%80%8b%e4%ba%ba%e4%b9%8b%e9%96%93%ef%bc%8c%e5%8f%aa%e5%89%a9%e4%b8%8b%e6%84%9b%e6%83%85/" title="[情人節專播]如果兩個人之間，只剩下愛情&#8230;">[情人節專播]如果兩個人之間，只剩下愛情&#8230; (0)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/5CYPfQTOEZ4UPAa2w61hqoareTw/0/da"><img src="http://feedads.g.doubleclick.net/~a/5CYPfQTOEZ4UPAa2w61hqoareTw/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/5CYPfQTOEZ4UPAa2w61hqoareTw/1/da"><img src="http://feedads.g.doubleclick.net/~a/5CYPfQTOEZ4UPAa2w61hqoareTw/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/DrOSQPo6HfY" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/khs6L4HJIxM" height="1" width="1"/>]]></content:encoded><description>[本文同步刊載於人工智慧研究部落格 http://ai.mmdays.com]
+Posted by Mr. Saturday
+Google 讓內部從事 search 研究的工程師們，每個人錄了一個小短片，來介紹 Google Search 上面一些重要的更新和改良。
+首先介紹最近新增的 spell correction 功能，Google 原本已經會在你打錯字的時候嘗試糾正你，現在 Google 要是很有信心你拼錯字時，會直接把拼字對的搜尋結果前兩筆直接給你看。
+
+下面的影片談論 Google Search 的 Localization (地區化)，Google 會根據使用者所在的上網地區決定搜尋的 context：
+
+下面則是用一分鐘超快速介紹了 Google Search Options，對於 UI designer 我相信相當有啟發性：
+
+Google Suggestions，也就是你在輸入搜尋關鍵字時 Google 下面出現的建議選單，是會隨使用者而不同的：
+
+Google Site Links：
+
+Google 星海羅盤！
+
+Google Search Options Panel：
+
+Product &amp;#8220;Plus Box&amp;#8221;，Google Product Search 現在也進到 Google Search 來了：
+
+Google [...]</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/28/google-search-engineers-videos/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/28/google-search-engineers-videos/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/DrOSQPo6HfY/</feedburner:origLink></item><item><title>國泰世華銀行5/28即將停機進行核心系統轉換！</title><link>http://feedproxy.google.com/~r/mmdays/~3/BHSQB1xANA8/</link><category>Business</category><category>Mr. Friday</category><category>Taiwan</category><category>停機公告</category><category>國泰世華銀行</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Wed, 27 May 2009 08:44:34 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7367</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>這個標題乍看之下跟mmdays長期關注的文章好像沒什麼關係，但其實這應該是今年度銀行界最引人注目的資訊系統轉換大事，歷經四、五年以上的評估、開發、測試，國泰世華銀行的核心系統，是否能在2009年第二季結束之前完成轉換呢？</p>
+<p><a title="Flickr 上 itia4u 的 cathaybank" href="http://www.flickr.com/photos/itia4u/3570545398/"><img src="http://farm4.static.flickr.com/3608/3570545398_fb37592670.jpg" alt="cathaybank" width="500" height="279" /></a></p>
+<p>ATM、MyATM、電話銀行、官方網站、網路銀行、MyB2B、FEDI…其實整個服務全部都會停機一輪。轉換的時間從5/28凌晨開始，一直到隔天凌晨2:00才恢復。</p>
+<p><span id="more-7367"></span></p>
+<p>銀行的核心系統轉換是什麼？抱歉我懶了，引述底下兩篇來自iThome文章，請大家有空的話自己去看一下吧。</p>
+<p><a href="http://www.jkforum.net/viewthread.php?tid=700466&amp;page=1&amp;authorid=523858">金融核心系統轉換今年再掀高峰</a>〈iThome原文找不到連結，這是網誌轉錄版〉</p>
+<p><a href="國泰世華銀行核心系統轉換 明年如期上線絕對沒有問題 ">國泰世華銀行核心系統轉換 明年如期上線絕對沒有問題</a></p>
+<blockquote><p>舉例來說，早期的核心系統開發，各個銀行都是採用COBOL語言來寫，但是，現在的選擇或許是Java，而早期所選用的資料庫，都是階層式的資料庫，現在卻是關聯式資料庫，這其中有很多技術成熟度以及最佳效能等許多層面的考量。<br />
+除此之外，早期的核心系統轉換工程，較為著重的是臨櫃交易等相關作業，但是，近年來，因為自動化的服務越來越多，在核心系統轉換的工程中，甚至有高達8成以上的比例，是屬於自動化服務的範疇，舉凡ATM、匯款以及網路銀行等各個應用，都與核心系統息息相關，章光祖說：「國泰世華銀行的外圍系統，就有100 多個，每一個都與核心系統有緊密的關係，進而使得核心系統轉換，有太多的系統介接問題需要考量。」</p></blockquote>
+<blockquote><p>目前除了新光人壽及元大銀行的核心系統轉換，已經邁入尾聲階段以外，國泰世華銀行也即將在5月啟用新的核心系統。國泰世華銀行資訊長章光祖表示，國泰世華銀行的新核心系統轉換，目前已經進行第3次的全行模擬測試，預計第2季如期上線沒有問題。<br />
+國泰世華銀行的核心系統轉換，其實也是一波三折，幾年前的評估作業中斷之後，直到2005年4月才又再度展開，不過，由於銀行的核心系統轉換茲事體大，因此，不論哪一家銀行的評估過程都相當冗長，以國泰世華來說，大約就花費了2年多時間才完成評估。<br />
+對於國泰世華銀行來說，核心系統轉換的目的，無非是要解決整體系統架構的問題，以入／扣帳的問題來說，以往因為每個應用系統的開發時間不同，所以，不同的交易都各有不同的入／扣帳機制，而新的核心系統將會把入／扣帳統一在系統前端的外圍處理，這樣的轉變，將可提升系統的更新速度與彈性。</p></blockquote>
+<blockquote><p>依據過去的經驗來看，5年前，國泰與世華銀行合併，就迫使系統的服務中斷了40多個小時。章光祖說：「這一次的核心系統轉換，勢必會影響到所有系統，進而致使相關服務中斷，但是，我們希望可以把服務中斷的時間控制在40個小時左右，甚至更短，不過，目前還在評估各種可行的方案。」<br />
+乍聽之下，服務中斷不超過40小時的目標，似乎不是太大的挑戰，5年前，國泰與世華銀行合併，致使系統中斷的時間，就是40多個小時，現在，因應新的銀行核心系統上線，服務中斷的時間應該也相去不遠。<br />
+是的，大多數人的想法確實如此，但是，仔細分析就會發現，國泰世華銀行合併之後，5年多來，系統的複雜度與困難度，已今非昔比，光是資料量與交易量就倍增許多，這一次的核心系統轉換，卻同樣不能允許任何一筆交易資料出錯。這樣的情況下，即使服務中斷的時間，同樣是以40多個小時做為目標，但是，這其中的挑戰卻是南轅北轍。</p></blockquote>
+<p>不論以系統複雜度、專案規模、平台差異性、銀行規模來看，國泰世華系統轉換絕對是今年一等一的大事。這同時也是檢驗Unix系統平台的穩定度，是否符合台灣銀行界期望的重要指標。</p>
+<p>與我們常在談的、三不五時會當一下的網路服務不同，金融業若是遇到停機，影響層面會非常的大。就談ATM這部分好了，國泰世華銀行是台北捷運的合作廠商，所以國泰世華銀行一停機，全捷運族便無法在捷運站的ATM提錢。光是停機，損失就這麼嚴重，那更不用說系統轉換的風險了。現在正是報稅季節，每天從銀行轉匯出去的金額不知有多少，系統轉換只要哪一個環節有問題，影響的金額應該是以億元為單位起算。</p>
+<p>不過，也正因為金融業的停機影響層面是如此的廣，所以在上線前會一而再、再而三的重複演練。從前文就可以看到，這個專案已經進行了快要四、五年，光是評估就花了兩年，相信這次的轉換，應該是經過多次演練後的結果。</p>
+<p>前面看起來好沉重，講點期待的事好了。這是<a href="https://www.cathaybk.com.tw/cathaybk/about_news0980506.asp">世華銀行新系統上線公告</a>。看來上線之後每月入／扣帳的時間會統一，應是就是這次轉換的重要目的之一。不過，等新系統轉換完，還是建議各位存款戶記得去刷個簿子，確認金額沒有異常…你知道的，以防萬一嘛！<br />
+<h3>隨機推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2008/11/27/g_speak/" title="g-speak: 手勢互動介面">g-speak: 手勢互動介面 (3)</a></li>
+<li><a href="http://mmdays.com/2007/03/27/%e5%85%92%e7%ab%a5%e7%af%80%e5%b0%88%e6%92%ad-%e7%84%a1%e6%95%b5%e9%90%b5%e9%87%91%e5%89%9b/" title="[兒童節專播] 無敵鐵金剛">[兒童節專播] 無敵鐵金剛 (0)</a></li>
+<li><a href="http://mmdays.com/2008/03/16/tree_sort/" title="二元樹在排序的應用">二元樹在排序的應用 (2)</a></li>
+<li><a href="http://mmdays.com/2007/09/06/anti-ad/" title="AdBlock算什麼?">AdBlock算什麼? (10)</a></li>
+<li><a href="http://mmdays.com/2009/04/15/radiusim/" title="radiusIM - 透過地圖結識點朋友吧">radiusIM - 透過地圖結識點朋友吧 (2)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/3gucvYLC4_SKFroIjkzUSeTgKoY/0/da"><img src="http://feedads.g.doubleclick.net/~a/3gucvYLC4_SKFroIjkzUSeTgKoY/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/3gucvYLC4_SKFroIjkzUSeTgKoY/1/da"><img src="http://feedads.g.doubleclick.net/~a/3gucvYLC4_SKFroIjkzUSeTgKoY/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/9GW_rsfK7OM" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/BHSQB1xANA8" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+這個標題乍看之下跟mmdays長期關注的文章好像沒什麼關係，但其實這應該是今年度銀行界最引人注目的資訊系統轉換大事，歷經四、五年以上的評估、開發、測試，國泰世華銀行的核心系統，是否能在2009年第二季結束之前完成轉換呢？
+
+ATM、MyATM、電話銀行、官方網站、網路銀行、MyB2B、FEDI…其實整個服務全部都會停機一輪。轉換的時間從5/28凌晨開始，一直到隔天凌晨2:00才恢復。
+
+銀行的核心系統轉換是什麼？抱歉我懶了，引述底下兩篇來自iThome文章，請大家有空的話自己去看一下吧。
+金融核心系統轉換今年再掀高峰〈iThome原文找不到連結，這是網誌轉錄版〉
+國泰世華銀行核心系統轉換 明年如期上線絕對沒有問題
+舉例來說，早期的核心系統開發，各個銀行都是採用COBOL語言來寫，但是，現在的選擇或許是Java，而早期所選用的資料庫，都是階層式的資料庫，現在卻是關聯式資料庫，這其中有很多技術成熟度以及最佳效能等許多層面的考量。
+除此之外，早期的核心系統轉換工程，較為著重的是臨櫃交易等相關作業，但是，近年來，因為自動化的服務越來越多，在核心系統轉換的工程中，甚至有高達8成以上的比例，是屬於自動化服務的範疇，舉凡ATM、匯款以及網路銀行等各個應用，都與核心系統息息相關，章光祖說：「國泰世華銀行的外圍系統，就有100 多個，每一個都與核心系統有緊密的關係，進而使得核心系統轉換，有太多的系統介接問題需要考量。」
+目前除了新光人壽及元大銀行的核心系統轉換，已經邁入尾聲階段以外，國泰世華銀行也即將在5月啟用新的核心系統。國泰世華銀行資訊長章光祖表示，國泰世華銀行的新核心系統轉換，目前已經進行第3次的全行模擬測試，預計第2季如期上線沒有問題。
+國泰世華銀行的核心系統轉換，其實也是一波三折，幾年前的評估作業中斷之後，直到2005年4月才又再度展開，不過，由於銀行的核心系統轉換茲事體大，因此，不論哪一家銀行的評估過程都相當冗長，以國泰世華來說，大約就花費了2年多時間才完成評估。
+對於國泰世華銀行來說，核心系統轉換的目的，無非是要解決整體系統架構的問題，以入／扣帳的問題來說，以往因為每個應用系統的開發時間不同，所以，不同的交易都各有不同的入／扣帳機制，而新的核心系統將會把入／扣帳統一在系統前端的外圍處理，這樣的轉變，將可提升系統的更新速度與彈性。
+依據過去的經驗來看，5年前，國泰與世華銀行合併，就迫使系統的服務中斷了40多個小時。章光祖說：「這一次的核心系統轉換，勢必會影響到所有系統，進而致使相關服務中斷，但是，我們希望可以把服務中斷的時間控制在40個小時左右，甚至更短，不過，目前還在評估各種可行的方案。」
+乍聽之下，服務中斷不超過40小時的目標，似乎不是太大的挑戰，5年前，國泰與世華銀行合併，致使系統中斷的時間，就是40多個小時，現在，因應新的銀行核心系統上線，服務中斷的時間應該也相去不遠。
+是的，大多數人的想法確實如此，但是，仔細分析就會發現，國泰世華銀行合併之後，5年多來，系統的複雜度與困難度，已今非昔比，光是資料量與交易量就倍增許多，這一次的核心系統轉換，卻同樣不能允許任何一筆交易資料出錯。這樣的情況下，即使服務中斷的時間，同樣是以40多個小時做為目標，但是，這其中的挑戰卻是南轅北轍。
+不論以系統複雜度、專案規模、平台差異性、銀行規模來看，國泰世華系統轉換絕對是今年一等一的大事。這同時也是檢驗Unix系統平台的穩定度，是否符合台灣銀行界期望的重要指標。
+與我們常在談的、三不五時會當一下的網路服務不同，金融業若是遇到停機，影響層面會非常的大。就談ATM這部分好了，國泰世華銀行是台北捷運的合作廠商，所以國泰世華銀行一停機，全捷運族便無法在捷運站的ATM提錢。光是停機，損失就這麼嚴重，那更不用說系統轉換的風險了。現在正是報稅季節，每天從銀行轉匯出去的金額不知有多少，系統轉換只要哪一個環節有問題，影響的金額應該是以億元為單位起算。
+不過，也正因為金融業的停機影響層面是如此的廣，所以在上線前會一而再、再而三的重複演練。從前文就可以看到，這個專案已經進行了快要四、五年，光是評估就花了兩年，相信這次的轉換，應該是經過多次演練後的結果。
+前面看起來好沉重，講點期待的事好了。這是世華銀行新系統上線公告。看來上線之後每月入／扣帳的時間會統一，應是就是這次轉換的重要目的之一。不過，等新系統轉換完，還是建議各位存款戶記得去刷個簿子，確認金額沒有異常…你知道的，以防萬一嘛！
+隨機推薦
+
+葉綠體: 細胞的太陽能發電廠 (7)
+預測 2008 年的 Facebook (5)
+群眾外包(Crowdsourcing)浪潮的興起(二) - 電視製作人的新節目 (5)
+世界最高的吊橋-Millau Viaduct (1)
+我們能相信 Alexa 嗎 !? (4)</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/27/cathay_united_bank/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/27/cathay_united_bank/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/9GW_rsfK7OM/</feedburner:origLink></item><item><title>給無名小站網友們：請說服我，你們不需要網誌備份的理由！</title><link>http://feedproxy.google.com/~r/mmdays/~3/0PPjhvZUKXU/</link><category>Blogroll</category><category>Mr. Friday</category><category>Yahoo!</category><category>專欄</category><category>無名小站</category><category>網路新聞</category><category>Wretch</category><category>備份</category><category>雅虎奇摩</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Mon, 25 May 2009 10:28:10 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7359</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>今天是2009/5/26。一個月前，無名小站正式公告，即將關閉網誌備份功能，關閉的日期，正是今日。</p>
+<p><a title="Flickr 上 itia4u 的 wretch_faq" href="http://www.flickr.com/photos/itia4u/3479847226/"><img src="http://farm4.static.flickr.com/3325/3479847226_f4ec64b2d6_o.jpg" alt="wretch_faq" width="575" height="735" /></a></p>
+<p>無名小站在台灣上網族群間的市占率極高，來看這篇文章的人，一定也有很多人擁有無名小站的網誌與相簿。這篇公告已經流傳了一個多月，可能你看過，也可能你沒看過，也或者你看過，但不太在意。不管你是哪一種，只要你決定5/26之後仍繼續選擇無名小站當你的網誌重心，那請你回答我，你不需要網誌備份功能的理由，是什麼？</p>
+<p>備份，是什麼？</p>
+<p><span id="more-7359"></span></p>
+<p><object width="425" height="344" data="http://www.youtube.com/v/QUciPGt03uQ&amp;hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/QUciPGt03uQ&amp;hl=zh_TW&amp;fs=1" /><param name="allowfullscreen" value="true" /></object></p>
+<p>這是著名影集慾望城市的其中一集。某天凱莉的電腦突然當掉，一片空白，按什麼鍵都沒有反應，所有的寫作心血通通回不來，電腦維修員告訴她一堆譏哩咕嚕的名詞，但她有聽沒有懂。當她欲哭無淚、跟所有好友抱怨的時候，每一個人都問她同樣的問題：</p>
+<p><span style="font-size: medium;">“When did the last time you <strong>backup</strong> your work ? 妳上一次<strong>備份</strong>是什麼時候？“ </span></p>
+<p><span style="font-size: medium;">“You didn’t <strong>backup</strong> your data ? 妳沒<strong>備份</strong>？ “ </span></p>
+<p><span style="font-size: medium;">“When was the last time you <strong>backup</strong> ? 妳上一次<strong>備份</strong>是什麼時候？”</span></p>
+<p>當米蘭達也問凱莉同樣問題的時候，凱莉終於抓狂了：</p>
+<p>“You know…no one talks about backing up. You’ve never use that expression with me before ever…but apparently, everybody secretly running up at night backup their work !  <span style="font-size: large;">妳知道嗎…根本沒有人說過「備份」這回事。妳從來沒有在我面前提過這個辭…</span><span style="color: #ff0000;"><strong>但很明顯的，每一個人晚上都偷偷爬起來備份他們的檔案！！〈怒〉”</strong></span></p>
+<p>請容許我用這麼誇張的字體來解釋這個功能的重要性。也許你在看到本篇的標題，想的是：”備份重要嗎?”。那麼看完上面的短片，請你反問自己一下：”備份<strong><span style="font-size: large;">不重要</span></strong>嗎?”</p>
+<p>有些人或許覺得困惑。在上面的影片裡，凱莉是電腦當掉所以資料回不來，可是無名小站的資料一直都在網站上呀？那麼，請容許我提醒各位<a href="http://mmdays.com/2007/05/08/wretch_retro/">幾點歷史</a>：</p>
+<ul>
+<li><a href="http://blog.xdite.net/?p=274">無名小站當的次數比我家老電腦當得還兇</a>：時間2007/2</li>
+<blockquote><p>[蘋果] 無名小站當機 200萬人受害 2周未修復怨聲起 照片恐救不回來</p>
+<p>【吳慧玲╱台北報導】擁有300萬名會員的網站「無名小站」，因部分檔案伺服器當機，導致網友無法正常瀏覽照片或上傳照片，當機至今已約兩周卻尚未修復，受影響網友多達200多萬人，均為免費會員，引起網友抱怨業者忽視免費會員權益。</p></blockquote>
+<li><a href="http://www.itis.tw/node/706">不知道什麼時候你會突然登不進去你的帳號</a>：時間2007/7</li>
+</ul>
+<blockquote><p>無名小站的<a href="http://www.itis.tw/node/665">認證風波</a>愈演愈烈，對於無名小站要求網友寄發雙證件以供認證一事，網友紛表不滿，認為無名小站並無資格要求網友提供雙證件，更表示全世界沒有一個網站是採取此種認證方式。</p></blockquote>
+<ul>
+<li><a href="http://www.wretch.cc/blog/billypan101/14368875">不知道什麼時候你的部落格會突然被關台</a>：時間2008/11</li>
+</ul>
+<blockquote><p>2008年11月11日，管理人員接獲網友檢舉「<a href="http://tw.myblog.yahoo.com/antired-newspaper">芒果日報</a>」在未經同意下轉貼刊登其文章，經管理人員確認後，依照Yahoo!奇摩部落格服務條款處理，移除該篇侵害著作權之文章並且寄發通知信告知。</p>
+<p>〈P. S. 1. 〉芒果日報有註明出處來源但仍被關站，後在<a href="http://www.wretch.cc/blog/billypan101/14368875">網友抗議下</a>復站。</p>
+<p>〈P. S. 2. 〉芒果日報位於雅虎部落格，與無名小站屬於同一個集團，兩者<a href="http://tw.rd.yahoo.com/referurl/central/f/tos/*http://tw.yahoo.com/info/utos.html">Yahoo!奇摩服務條款</a>和<a href="http://tw.rd.yahoo.com/referurl/central/f/pri/*http://privacy.yahoo.com/privacy/tw">Yahoo!奇摩隱私權政策</a>皆相同〉</p></blockquote>
+<p>再來呢，就是現在。</p>
+<ul>
+<li><a href="http://mmdays.com/2009/04/27/wretch_announcement/">再也沒有官方備份網誌功能</a>：時間2009/5/26</li>
+</ul>
+<p>不能備份、不能搬家，代表的是一旦你的無名網誌因為系統原因損毀、或是像之前那樣因為安全性問題而突然無預警地無法登入帳號，那，你很有可能…再也救不回來了！</p>
+<blockquote><p><span style="color: #000000;"><strong>8. 系統中斷或故障</strong><br />
+</span>本服務有時可能會出現中斷或故障等現象，或許將造成您使用上的不便、<strong><span style="color: #ff0000;">資料喪失</span></strong>、錯誤、遭人篡改或其他經濟上損失等情形。您於使用本服務時宜自行採取防護措施。Yahoo!奇摩對於您因使用（或無法使用）本服務而造成的損害，<strong><span style="color: #ff0000;">除故意或重大過失外，不負任何賠償責任。</span></strong></p>
+<p><span style="color: #000000;"><strong>24. 終止 </strong><br />
+</span>您同意Yahoo!奇摩得依其判斷因任何理由，<span style="color: #ff0000;"><strong>包含但不限於一定期間未使用</strong></span>、法院或政府機關命令、本服務無法繼續或服務內容實質變更、<strong><span style="color: #ff0000;">無法預期之技術或安全因素或問題</span></strong>、您所為詐欺或違法行為、未依約支付費用，或其他Yahoo!奇摩認為您已經違反本服務條款的明文規定及精神，<span style="color: #ff0000;"><strong>而終止或限制您使用帳號（或其任何部分）或本服務之使用，並將本服務內任何「會員內容」加以移除並刪除</strong></span>。</p>
+<p>&#8211;來源，<a href="http://tw.info.yahoo.com/legal/utos.html">雅虎奇摩服務條款</a></p></blockquote>
+<p>喔對啦，嚴格講起來，沒有匯出備份功能，你還是可以備份啦──每張網頁點進去，按右鍵另存新檔也可以。〈如果你真有毅力這樣做的話，我也佩服你〉</p>
+<p>如果看了上面一串落落長的文章，你對於無名的舉動有那麼…一絲絲的懷疑的話，那麼…你手腳得快了。</p>
+<ul>
+<li><a href="http://mmdays.com/2009/04/27/wretch_announcement/">再也不能利用官方備份網誌功能搬家</a>：時間2009/5/26</li>
+</ul>
+<blockquote><p>網誌備份功能廢除，不但代表著從此以後你無法備份自己的無名網誌，而且再也無法利用此功能搬去其他BSP了！？在眾多網路服務紛紛以開放api讓資訊在不同網站之間流通的現在，無名此舉反倒像是開倒車。</p>
+<p>剛剛發現，去年年底無名小站推出了<a href="http://www.wretch.cc/svcs/movehelper/">搬家小幫手</a>，幫別人把部落格從Pixnet、Yam、Xuite搬到無名。請問一下，有沒有無名小站允許別人搬過來，卻不讓別人搬走的八卦？</p></blockquote>
+<p>承前言。今天是2009/5/26。一個月前，無名小站正式公告，即將關閉網誌備份功能，關閉的日期，正是今日。</p>
+<p><img src="http://farm1.static.flickr.com/131/330094653_264bce9267.jpg?v=0" alt="" /></p>
+<p>你還要想嗎？我告訴你吧，過了今天再不搬，你哪也走不了。</p>
+<p>相關推薦：</p>
+<p><span><span style="color: #007fff;"><a title="Permanent Link to 丁丁大站到底幹了哪些好事?" rel="bookmark" href="../2007/05/08/wretch_retro/">丁丁大站到底幹了哪些好事?</a></span></span><span><span style="color: #007fff;"><a title="Permanent Link to 一堂一千六百萬的課 : 無名小站與交大的回饋金之爭" rel="bookmark" href="../2007/05/11/a_16_million_lesson/"></a></span></span></p>
+<p><span><span style="color: #007fff;"><a title="Permanent Link to 一堂一千六百萬的課 : 無名小站與交大的回饋金之爭" rel="bookmark" href="../2007/05/11/a_16_million_lesson/">一堂一千六百萬的課 : 無名小站與交大的回饋金之爭</a></span></span><a href="http://blogs.myoops.org/lucifer.php/2008/04/29/education4"></a></p>
+<p><a href="http://blogs.myoops.org/lucifer.php/2008/04/29/education4">與無名小站一起成長的交通大學林一平教授&#8230;..</a><br />
+<h3>相關推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2007/10/23/data_is_king/" title="資料為王 : Data is King">資料為王 : Data is King (14)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/kJflPYFlVQHhSN1dUB6PGRebLRU/0/da"><img src="http://feedads.g.doubleclick.net/~a/kJflPYFlVQHhSN1dUB6PGRebLRU/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/kJflPYFlVQHhSN1dUB6PGRebLRU/1/da"><img src="http://feedads.g.doubleclick.net/~a/kJflPYFlVQHhSN1dUB6PGRebLRU/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/np0l-T6MuD4" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/0PPjhvZUKXU" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+今天是2009/5/26。一個月前，無名小站正式公告，即將關閉網誌備份功能，關閉的日期，正是今日。
+
+無名小站在台灣上網族群間的市占率極高，來看這篇文章的人，一定也有很多人擁有無名小站的網誌與相簿。這篇公告已經流傳了一個多月，可能你看過，也可能你沒看過，也或者你看過，但不太在意。不管你是哪一種，只要你決定5/26之後仍繼續選擇無名小站當你的網誌重心，那請你回答我，你不需要網誌備份功能的理由，是什麼？
+備份，是什麼？
+
+
+這是著名影集慾望城市的其中一集。某天凱莉的電腦突然當掉，一片空白，按什麼鍵都沒有反應，所有的寫作心血通通回不來，電腦維修員告訴她一堆譏哩咕嚕的名詞，但她有聽沒有懂。當她欲哭無淚、跟所有好友抱怨的時候，每一個人都問她同樣的問題：
+“When did the last time you backup your work ? 妳上一次備份是什麼時候？“
+“You didn’t backup your data ? 妳沒備份？ “
+“When was the last time you backup ? 妳上一次備份是什麼時候？”
+當米蘭達也問凱莉同樣問題的時候，凱莉終於抓狂了：
+“You know…no one talks about backing up. You’ve never use that expression with me before ever…but apparently, everybody secretly running up at night backup their [...]</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/26/the_reason_for_staying_wretch/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/26/the_reason_for_staying_wretch/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/np0l-T6MuD4/</feedburner:origLink></item><item><title>在微網誌〈Microblogging〉興起的時代裡，你如何閱讀？</title><link>http://feedproxy.google.com/~r/mmdays/~3/ei-5BmVNA6U/</link><category>Mr. Friday</category><category>Plurk</category><category>Web 2.0</category><category>twitter</category><category>網路產業</category><category>Bookmark</category><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mr. Friday</dc:creator><pubDate>Wed, 20 May 2009 08:32:56 PDT</pubDate><guid isPermaLink="false">http://mmdays.com/?p=7355</guid><content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p><strong>Posted by </strong><a href="http://mmdays.com/category/mr-friday/"><strong>Mr. Friday</strong></a></p>
+<p>如題，這一陣子一直在想這個問題。有些想法亂糟糟的、東一塊西一塊，今天終於有時間，把這些念頭統整成比較有系統的文章。</p>
+<p><strong>微網誌的出現，帶來資訊聚合的新挑戰</strong></p>
+<p><a title="Flickr 上 itia4u 的 twitter_logo" href="http://www.flickr.com/photos/itia4u/3548313345/"><img style="display: inline; margin-left: 0px; margin-right: 0px" src="http://farm4.static.flickr.com/3564/3548313345_461f50da35_o.jpg" alt="twitter_logo" width="309" height="109" align="left" /></a>網路世界的變化真的太快了。前兩三年的網路熱門話題或許還是Blog、Digg與Facebook的天下，但到今日網路上最火紅的已經換成了Twitter、Plurk類的微網誌〈micro-blogging〉。隨著微網誌的興起，再加上Twitter API與其他服務的結合，突然四處之間都是不到140字的Tweet〈或稱推，本文之後會交互使用〉，原本已經散落在網路各地的資訊，進一步變得更零散與細瑣。在這種狀況之下，假設你是一個不想花太多時間，卻又想知道今日網路上大家在關注哪些消息的人，你會怎麼做？</p>
+<p><span id="more-7355"></span></p>
+<p>網路資訊的聚合與搜尋一直以來都是個難題。為了讓人們快速地找到想要的資訊，我們已經有了各式各樣的工具，例如Google Search、Wikipedia、RSS Reader、書籤網站等等。雖在使用方法上有差異，這些服務或多或少都可以算是提供了這方面的用途。但是除了Wikipedia以外，Google Search、書籤網站多半是以一篇有獨立url的網頁為最小的資訊計算單位，RSS reader雖偶有例外但也差不多。這樣的運作模式多年來也沒有太大的問題，但在以Twitter為首的微網誌出現後，以上方式卻接近破功。</p>
+<p><a title="Flickr 上 itia4u 的 plurk_rank1" href="http://www.flickr.com/photos/itia4u/3549150720/"><img style="display: inline; margin-left: 0px; margin-right: 0px" src="http://farm4.static.flickr.com/3366/3549150720_00f2722363_m.jpg" alt="plurk_rank1" width="254" height="185" align="right" /></a>為何說破功？或許有的人會覺得納悶，Twitter上的每一個推還是可以有一個URL連到啊！可是，每一則Tweet的重要性，卻很難用過往的方式來衡量。從<a href="http://en.wikipedia.org/wiki/HITS_algorithm">HITS</a>與<a href="http://en.wikipedia.org/wiki/PageRank">Pagerank</a>演算法問世伊始，搜尋引擎計算一張網頁的重要性，多半依賴其對外連結的密集度與連結的重要性來計算，可是一則短短140字的推，是能容下多少超連結？而且大家看微網誌的時候，幾乎都直接從Timeline撈，很少連進單一的推去看。從搜尋引擎的思維來看，這一則一則推的連結度都很低，理當是不重要的文章。但從微網誌的角度來看，一個名人〈例如Plurk上Karma值高達100的<a href="http://www.plurk.com/cwyuni">酪梨壽司</a>〉寫一則推或噗，可能有幾百甚至幾千人同時觀看，你說這Tweet對外沒有超連結所以就不重要嗎？似乎也說不過去。因此，以超連結為導向的演算法，並不適用在Twitter上，而如果無法決定Tweet的重要性，就無法決定資訊聚合的方式。</p>
+<p><strong>你想看什麼？</strong></p>
+<p>Twitter / Plurk這些微網誌服務興起之後，資訊變得更難用過去方式統整的另一個原因，就是微網誌也具備了部分討論區的特性，但卻無法以單一thread的方式囊括起來。舉例來說，以前想看一篇文章的相關討論，看部落格底下的討論區與PTT或許就可以，現在突然大家都銳推〈retweet〉在Twitter、Plurk上面，引發的後續討論與迴響也都在微網誌上，想看的人還得去微網誌服務上搜尋才看得到。前天<a href="http://www.plurker.com.tw/?27845406">Plurk推出了Plurk Trend</a>的功能，多少可以佐證這個現象：</p>
+<p><a title="Flickr 上 itia4u 的 plurk_trend" href="http://www.flickr.com/photos/itia4u/3548029732/"><img src="http://farm4.static.flickr.com/3375/3548029732_728912e963.jpg" alt="plurk_trend" width="500" height="406" /></a></p>
+<p>其實，這並不是新故事，本來就會有部分的留言是不會在原文網頁上留下，而留在別的討論區、書籤網站等等。但是微網誌的出現讓這些留言與討論在不同服務平台發散得更快更廣，也更難一次囊括。</p>
+<p>所以，如果我們想解決微網誌時代資訊聚合的問題，我們應該先定義，<strong>你想看到什麼樣的資訊、依此決定什麼樣的推是重要的，再決定資訊聚合的方式</strong>。這個問題可以很簡單，也可以很複雜，端看你用什麼角度去切入。越多人看到的推就越重要嗎？還是越多人retweet的就重要？是一則推重要，還是多則相關的推聯合起來看比較有意義？最多人討論的trend keyword重不重要？是推本身重要，還是被很多推提到的關鍵字、超連結重要？又，假如有一篇文章在twitter、plurk上被廣泛討論，那微網誌上的討論熱度，是否可以回頭增加原文的重要性？</p>
+<p><strong>書籤網站面臨挑戰</strong></p>
+<p>假如我今天的目的是要看當下的熱門話題，第一個進入我腦中的名字會是：書籤網站。</p>
+<p>書籤網站並不只是幫人存書籤而已，一直以來許多人都把它當成資訊聚合網站的一種，透過收藏與推薦，書籤網站可以即時地告訴你現在大家都在關注什麼話題。</p>
+<p>但是，Twitter、Plurk這些微網誌的興起，並不只給Facebook這些同為社群網站的服務帶來威脅，同時也為各式各樣資訊聚合的服務帶來了挑戰，其中也包括了書籤網站。一直到前不久為止，以digg為首的書籤網站的運作模式看起來都還很不錯，但twitter在國外興起後，我才突然發現書籤網站跟Twitter竟有許多相似與可取代之處。我曾在<a href="http://mmdays.com/2008/12/02/power_law_3/">淺談網路世界的Power Law現象〈三〉── 書籤網站中的Power Group</a>這篇文章中提過類似概念：</p>
+<blockquote><p>根據<a href="http://www.pronetadvertising.com/articles/the-power-of-digg-top-users-one-year-later34409.html">此篇文章</a>的研究，在2007年時Digg首頁上的Top Stories，有43.8%是由Top 100 User分享的。而底下的留言更指出到了今年2008，首頁的60%內容都是Top 100 User貢獻的，40%才是其他幾萬人。</p></blockquote>
+<blockquote><p>換句話說，在強調分享的Web 2.0網站裡，有一群Power User，他們組合成的Power Group，左右著網站的意見走向。這個現象，在強調意見交流功能的社會性書籤網站上也相當地明顯。</p></blockquote>
+<blockquote><p>在Digg上，Top User之所以會這麼有影響力，是因為大家會去訂閱他們的最新活動訊息來看。這也難怪，畢竟Digg上大概每6~7秒就會有一篇新文章被放上來，一般網友哪有那麼多時間一篇一篇細看，所以大家會去訂閱Top User的活動，看一下他們推了什麼文章，儼然是現成的過濾機制。</p></blockquote>
+<p>訂閱Top User〈或者是你認識的朋友〉的最新活動訊息來看，關注他們所關注的內容，這不正是Facebook和Twitter、Plurk在做的事？因此，當微網誌興起之後，不難想見部分使用者會利用微網誌，取代對書籤網站的需求。而對書籤網站來說，更棘手的還有一點，就是很少人會把微網誌的文章推到書籤網站上去，因此在書籤網站上看不到微網誌裡的熱門話題。我可以取代你，你卻不能看見我，以即時熱門資訊的聚合來說，書籤網站在微網誌這一塊，可說吃了悶虧。</p>
+<p>不過，書籤網站也不能說是沒有對策。腦筋動得快的人，已經想到如何把微網誌的內容帶進書籤網站的方法了。就是以retweet次數做排名的銳推排行榜，例如美國的<a href="http://www.tweetmeme.com">Tweetmeme</a>與大陸的<a href="http://rt.ju690.com/">玩聚</a>。</p>
+<p><a title="Flickr 上 itia4u 的 rt_2" href="http://www.flickr.com/photos/itia4u/3549029556/"><img src="http://farm4.static.flickr.com/3653/3549029556_6ea063f940.jpg" alt="alt" width="500" height="374" /></a></p>
+<p><a title="Flickr 上 itia4u 的 rt_1" href="http://www.flickr.com/photos/itia4u/3548219729/"><img src="http://farm4.static.flickr.com/3634/3548219729_c9309f75bf.jpg" alt="rt_1" width="500" height="389" /></a></p>
+<p>以功能來說，我認為玩聚做得十分完整，雖然以alexa流量排行來看，這兩個網站還算不上成功，但整體而言，卻是其他書籤網站可作為參考的方向。這也證明了，書籤網站只要稍加修改，其運作模式還是可以套用於微網誌上。</p>
+<p><strong>結語</strong></p>
+<p>微網誌的興起，對於各種資訊聚合的網路服務來說都是項挑戰，因為它們讓資訊變得更細瑣、更片段，四散在許多角落，而訊息數目已經到了海量的地步。但是這項挑戰卻是所有服務要面對的難題，因為微網誌的興起已經是不可避免的趨勢。</p>
+<p>在台灣，最紅的微網誌不是Twitter，而是Plurk，這也進一步的意味著國外那些整合Twitter工具不適用於台灣，台灣的網路服務業者要自己想辦法，統整那些散落在Plurk上面的資訊。是好是壞？不知道，但這似乎也讓台灣的網路服務，多了一些與國外不同的空間與想像。<br />
+<h3>相關推薦</h3>
+<ul class="related_post">
+<li><a href="http://mmdays.com/2009/04/26/google-maps-on-twitter/" title="Google Maps 也開始使用 Twitter 了">Google Maps 也開始使用 Twitter 了 (2)</a></li>
+<li><a href="http://mmdays.com/2009/03/24/twitter_topology/" title="看看誰是你Twitter上的好朋友！">看看誰是你Twitter上的好朋友！ (8)</a></li>
+<li><a href="http://mmdays.com/2009/03/06/twitter-search/" title="Twitter Search 功能上線 - 看看誰在 Twitter 上討論你？">Twitter Search 功能上線 - 看看誰在 Twitter 上討論你？ (7)</a></li>
+<li><a href="http://mmdays.com/2009/02/27/google_twitter/" title="Google也有Twitter帳號了">Google也有Twitter帳號了 (2)</a></li>
+<li><a href="http://mmdays.com/2009/02/26/cwwany_and_bsp/" title="彎彎究竟會花落誰家？由一個噗引發的BSP搶人大戰">彎彎究竟會花落誰家？由一個噗引發的BSP搶人大戰 (44)</a></li>
+</ul>
+
+<p><a href="http://feedads.g.doubleclick.net/~a/jFQ3o_GtEnW8fIbWuxcDpmR6pVc/0/da"><img src="http://feedads.g.doubleclick.net/~a/jFQ3o_GtEnW8fIbWuxcDpmR6pVc/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/jFQ3o_GtEnW8fIbWuxcDpmR6pVc/1/da"><img src="http://feedads.g.doubleclick.net/~a/jFQ3o_GtEnW8fIbWuxcDpmR6pVc/1/di" border="0" ismap="true"></img></a></p><img src="http://feeds2.feedburner.com/~r/mmdays/feed/~4/dGe0YmU33I0" height="1" width="1"/><img src="http://feeds2.feedburner.com/~r/mmdays/~4/ei-5BmVNA6U" height="1" width="1"/>]]></content:encoded><description>Posted by Mr. Friday
+如題，這一陣子一直在想這個問題。有些想法亂糟糟的、東一塊西一塊，今天終於有時間，把這些念頭統整成比較有系統的文章。
+微網誌的出現，帶來資訊聚合的新挑戰
+網路世界的變化真的太快了。前兩三年的網路熱門話題或許還是Blog、Digg與Facebook的天下，但到今日網路上最火紅的已經換成了Twitter、Plurk類的微網誌〈micro-blogging〉。隨著微網誌的興起，再加上Twitter API與其他服務的結合，突然四處之間都是不到140字的Tweet〈或稱推，本文之後會交互使用〉，原本已經散落在網路各地的資訊，進一步變得更零散與細瑣。在這種狀況之下，假設你是一個不想花太多時間，卻又想知道今日網路上大家在關注哪些消息的人，你會怎麼做？
+
+網路資訊的聚合與搜尋一直以來都是個難題。為了讓人們快速地找到想要的資訊，我們已經有了各式各樣的工具，例如Google Search、Wikipedia、RSS Reader、書籤網站等等。雖在使用方法上有差異，這些服務或多或少都可以算是提供了這方面的用途。但是除了Wikipedia以外，Google Search、書籤網站多半是以一篇有獨立url的網頁為最小的資訊計算單位，RSS reader雖偶有例外但也差不多。這樣的運作模式多年來也沒有太大的問題，但在以Twitter為首的微網誌出現後，以上方式卻接近破功。
+為何說破功？或許有的人會覺得納悶，Twitter上的每一個推還是可以有一個URL連到啊！可是，每一則Tweet的重要性，卻很難用過往的方式來衡量。從HITS與Pagerank演算法問世伊始，搜尋引擎計算一張網頁的重要性，多半依賴其對外連結的密集度與連結的重要性來計算，可是一則短短140字的推，是能容下多少超連結？而且大家看微網誌的時候，幾乎都直接從Timeline撈，很少連進單一的推去看。從搜尋引擎的思維來看，這一則一則推的連結度都很低，理當是不重要的文章。但從微網誌的角度來看，一個名人〈例如Plurk上Karma值高達100的酪梨壽司〉寫一則推或噗，可能有幾百甚至幾千人同時觀看，你說這Tweet對外沒有超連結所以就不重要嗎？似乎也說不過去。因此，以超連結為導向的演算法，並不適用在Twitter上，而如果無法決定Tweet的重要性，就無法決定資訊聚合的方式。
+你想看什麼？
+Twitter / Plurk這些微網誌服務興起之後，資訊變得更難用過去方式統整的另一個原因，就是微網誌也具備了部分討論區的特性，但卻無法以單一thread的方式囊括起來。舉例來說，以前想看一篇文章的相關討論，看部落格底下的討論區與PTT或許就可以，現在突然大家都銳推〈retweet〉在Twitter、Plurk上面，引發的後續討論與迴響也都在微網誌上，想看的人還得去微網誌服務上搜尋才看得到。前天Plurk推出了Plurk Trend的功能，多少可以佐證這個現象：
+
+其實，這並不是新故事，本來就會有部分的留言是不會在原文網頁上留下，而留在別的討論區、書籤網站等等。但是微網誌的出現讓這些留言與討論在不同服務平台發散得更快更廣，也更難一次囊括。
+所以，如果我們想解決微網誌時代資訊聚合的問題，我們應該先定義，你想看到什麼樣的資訊、依此決定什麼樣的推是重要的，再決定資訊聚合的方式。這個問題可以很簡單，也可以很複雜，端看你用什麼角度去切入。越多人看到的推就越重要嗎？還是越多人retweet的就重要？是一則推重要，還是多則相關的推聯合起來看比較有意義？最多人討論的trend keyword重不重要？是推本身重要，還是被很多推提到的關鍵字、超連結重要？又，假如有一篇文章在twitter、plurk上被廣泛討論，那微網誌上的討論熱度，是否可以回頭增加原文的重要性？
+書籤網站面臨挑戰
+假如我今天的目的是要看當下的熱門話題，第一個進入我腦中的名字會是：書籤網站。
+書籤網站並不只是幫人存書籤而已，一直以來許多人都把它當成資訊聚合網站的一種，透過收藏與推薦，書籤網站可以即時地告訴你現在大家都在關注什麼話題。
+但是，Twitter、Plurk這些微網誌的興起，並不只給Facebook這些同為社群網站的服務帶來威脅，同時也為各式各樣資訊聚合的服務帶來了挑戰，其中也包括了書籤網站。一直到前不久為止，以digg為首的書籤網站的運作模式看起來都還很不錯，但twitter在國外興起後，我才突然發現書籤網站跟Twitter竟有許多相似與可取代之處。我曾在淺談網路世界的Power Law現象〈三〉── 書籤網站中的Power Group這篇文章中提過類似概念：
+根據此篇文章的研究，在2007年時Digg首頁上的Top Stories，有43.8%是由Top 100 User分享的。而底下的留言更指出到了今年2008，首頁的60%內容都是Top 100 User貢獻的，40%才是其他幾萬人。
+換句話說，在強調分享的Web 2.0網站裡，有一群Power User，他們組合成的Power Group，左右著網站的意見走向。這個現象，在強調意見交流功能的社會性書籤網站上也相當地明顯。
+在Digg上，Top User之所以會這麼有影響力，是因為大家會去訂閱他們的最新活動訊息來看。這也難怪，畢竟Digg上大概每6~7秒就會有一篇新文章被放上來，一般網友哪有那麼多時間一篇一篇細看，所以大家會去訂閱Top User的活動，看一下他們推了什麼文章，儼然是現成的過濾機制。
+訂閱Top User〈或者是你認識的朋友〉的最新活動訊息來看，關注他們所關注的內容，這不正是Facebook和Twitter、Plurk在做的事？因此，當微網誌興起之後，不難想見部分使用者會利用微網誌，取代對書籤網站的需求。而對書籤網站來說，更棘手的還有一點，就是很少人會把微網誌的文章推到書籤網站上去，因此在書籤網站上看不到微網誌裡的熱門話題。我可以取代你，你卻不能看見我，以即時熱門資訊的聚合來說，書籤網站在微網誌這一塊，可說吃了悶虧。
+不過，書籤網站也不能說是沒有對策。腦筋動得快的人，已經想到如何把微網誌的內容帶進書籤網站的方法了。就是以retweet次數做排名的銳推排行榜，例如美國的Tweetmeme與大陸的玩聚。
+
+
+以功能來說，我認為玩聚做得十分完整，雖然以alexa流量排行來看，這兩個網站還算不上成功，但整體而言，卻是其他書籤網站可作為參考的方向。這也證明了，書籤網站只要稍加修改，其運作模式還是可以套用於微網誌上。
+結語
+微網誌的興起，對於各種資訊聚合的網路服務來說都是項挑戰，因為它們讓資訊變得更細瑣、更片段，四散在許多角落，而訊息數目已經到了海量的地步。但是這項挑戰卻是所有服務要面對的難題，因為微網誌的興起已經是不可避免的趨勢。
+在台灣，最紅的微網誌不是Twitter，而是Plurk，這也進一步的意味著國外那些整合Twitter工具不適用於台灣，台灣的網路服務業者要自己想辦法，統整那些散落在Plurk上面的資訊。是好是壞？不知道，但這似乎也讓台灣的網路服務，多了一些與國外不同的空間與想像。
+相關推薦
+
+Google Maps 也開始使用 Twitter 了 (2)
+看看誰是你Twitter上的好朋友！ (8)
+Twitter Search 功能上線 - 看看誰在 Twitter 上討論你？ (7)
+Google也有Twitter帳號了 (2)
+彎彎究竟會花落誰家？由一個噗引發的BSP搶人大戰 (44)</description><wfw:commentRss xmlns:wfw="http://wellformedweb.org/CommentAPI/">http://mmdays.com/2009/05/20/how_you_read_in_microblogging_era/feed/</wfw:commentRss><feedburner:origLink>http://mmdays.com/2009/05/20/how_you_read_in_microblogging_era/</feedburner:origLink><feedburner:origLink>http://feedproxy.google.com/~r/mmdays/feed/~3/dGe0YmU33I0/</feedburner:origLink></item></channel></rss>
+

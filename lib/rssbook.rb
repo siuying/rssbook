@@ -7,10 +7,12 @@ require 'iconv'
 require 'logger'
 require 'feed-normalizer'
 require 'open-uri'
+require 'hpricot'
 require "prawn/measurement_extensions"
+require 'prawn/format'
 
 module RSSBook
-  VERSION = '0.1.5'
+  VERSION = '0.2.0'
 
   class Renderer
     def initialize(input, output, font = "#{Prawn::BASEDIR}/data/fonts/gkai00mp.ttf",
@@ -30,23 +32,59 @@ module RSSBook
       puts "start document"
       @items = @feed.entries
       Prawn::Document.generate @output, @options do |doc|
-        doc.font @font        
+        doc.font @font
         puts "num of items: #{@items.size}"
+
+        render_toc(doc)
+        
+        count = 1
         @items.each do |item|
           title = item.title
           desc  = item.content
-          render_feed(doc, title, desc)
+          link_id = "link_#{count}"
+          render_item(doc, title, desc, link_id)
+          count += 1
         end
       end
       puts "end document"
     end
 
     private
-    def render_feed(doc, title, description)
+    def render_toc(doc)
+
+      # TITLE
+      doc.bounding_box([doc.bounds.left, doc.bounds.top], :width => doc.bounds.width) do
+        doc.text_options.update(:wrap => :character, :size => 32, :spacing => 4)
+        doc.tags :p => {:font_size => "1em", :color => "black"}
+        doc.styles :toc => {:font_size => "1.5em", :color => "black", :text_decoration => :underline},
+                :title => {:font_size => "3em"}, :details => {:kerning => true}
+        
+        doc.pad_bottom(10) do
+          doc.text "<a name='title' class='toc title'></a>"
+          doc.text @feed.title
+        end
+
+        # TOC
+        doc.text_options.update(:wrap => :character, :size => 26, :spacing => 4)
+        count = 1
+        @items.each do |item|
+          title = item.title
+          doc.pad_bottom(5) do
+            doc.text "<p>#{count}</p><a href='#link_#{count}' class='toc'>#{title}</a>"
+          end
+          
+          count += 1
+        end
+        doc.start_new_page
+      end
+    end
+    
+    def render_item(doc, title, description, link_id)
       puts "render: #{title}"
       doc.bounding_box([doc.bounds.left, doc.bounds.top], :width => doc.bounds.width) do
         doc.pad_bottom(30) do
           doc.text_options.update(:wrap => :character, :size => 26, :spacing => 4)
+          doc.text "<a name='#{link_id}'/>"
           doc.text title
         end
       
@@ -58,6 +96,7 @@ module RSSBook
           end
         end
 
+        doc.text "<a href='#title' class='toc'>&lt;&lt;</a>"
         doc.start_new_page
       end
     end
