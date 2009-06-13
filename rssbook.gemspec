@@ -2,8 +2,8 @@ Gem::Specification.new do |s|
   s.specification_version = 2 if s.respond_to? :specification_version=
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.name = 'rssbook'
-  s.version = '0.1.4'
-  s.date = '2009-06-10'
+  s.version = '0.1.5'
+  s.date = '2009-06-14'
 
   s.summary = s.description = "Convert RSS Feed to PDF format."
 
@@ -18,12 +18,14 @@ Gem::Specification.new do |s|
     bin/rssbook
     lib/rssbook.rb
     rssbook.gemspec
+    test/feeds/feed1.xml
+    test/rss_test.rb
   ]
   # = MANIFEST =
 
   s.extra_rdoc_files = %w[README LICENSE]
   s.add_dependency 'prawn'
-  s.add_dependency 'hpricot'
+  s.add_dependency 'feed-normalizer'
   s.has_rdoc = false
   s.executables = ["rssbook"]
   s.require_paths = %w[lib]

@@ -5,12 +5,12 @@ require "rubygems"
 require "prawn"
 require 'iconv'
 require 'logger'
-require 'hpricot'
+require 'feed-normalizer'
 require 'open-uri'
 require "prawn/measurement_extensions"
 
 module RSSBook
-  VERSION = '0.1.4'
+  VERSION = '0.1.5'
 
   class Renderer
     def initialize(input, output, font = "#{Prawn::BASEDIR}/data/fonts/gkai00mp.ttf",
@@ -22,18 +22,19 @@ module RSSBook
       @log = Logger.new($STDOUT)
       
       puts "input: #{input}, output: #{output}"
-      @feed = Hpricot.XML(open(input))
+
+      @feed = FeedNormalizer::FeedNormalizer.parse open(input)
     end
 
     def render
       puts "start document"
-      @items = (@feed/"//item")
+      @items = @feed.entries
       Prawn::Document.generate @output, @options do |doc|
         doc.font @font        
         puts "num of items: #{@items.size}"
         @items.each do |item|
-          title = (item/"/title").inner_text
-          desc  = (item/"/description").inner_text
+          title = item.title
+          desc  = item.content
           render_feed(doc, title, desc)
         end
       end
