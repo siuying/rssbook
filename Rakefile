@@ -50,6 +50,7 @@ task SPEC_FILE => FileList['lib/**','bin/**','Rakefile','LICENSE','README'] do |
     sort.
     reject{ |file| file =~ /^\./ }.
     reject { |file| file =~ /^doc/ }.
+    reject { |file| file =~ /\.gem$/ }.
     map{ |file| "    #{file}" }.
     join("\n")
   # piece file back together and write...
