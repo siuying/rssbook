@@ -4,7 +4,7 @@ require "rssbook"
 
 if ARGV.size != 2 && ARGV.size != 3
   puts "rssbook - Convert RSS to PDF"
-  puts "    pdbook <rss-file-or-URL> <output-pdf-file> [font-file]"
+  puts "    rssbook <rss-file-or-URL> <output-pdf-file> [font-file]"
 
 else
   conv = RSSBook::Renderer.new(ARGV[0], ARGV[1], ARGV[2])

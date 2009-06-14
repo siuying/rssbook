@@ -12,7 +12,7 @@ require "prawn/measurement_extensions"
 require 'prawn/format'
 
 module RSSBook
-  VERSION = '0.2.1'
+  VERSION = '0.2.2'
 
   class Renderer
     def initialize(input, output, font = "#{Prawn::BASEDIR}/data/fonts/gkai00mp.ttf",
@@ -21,10 +21,9 @@ module RSSBook
       @output = output
       @font = font
       @options = options
-      @log = Logger.new($STDOUT)
+      @log = Logger.new(STDOUT)
       
       puts "input: #{input}, output: #{output}"
-
       @feed = FeedNormalizer::FeedNormalizer.parse open(input)
     end
 
